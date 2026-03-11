@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>营销技能知识题库 - 搜题系统</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    
+    <!-- Tailwind 配置 -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#165DFF',
+                        secondary: '#36CFC9',
+                        accent: '#722ED1',
+                        neutral: '#F5F7FA',
+                        dark: '#1D2129',
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                }
+            }
+        }
+    </script>
+    
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .content-auto {
+                content-visibility: auto;
+            }
+            .search-shadow {
+                box-shadow: 0 4px 20px rgba(22, 93, 255, 0.15);
+            }
+            .card-hover {
+                transition: all 0.3s ease;
+            }
+            .card-hover:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 30px rgba(22, 93, 255, 0.18);
+            }
+            .answer-toggle {
+                cursor: pointer;
+            }
+            .scrollbar-thin {
+                scrollbar-width: thin;
+            }
+            .scrollbar-thin::-webkit-scrollbar {
+                width: 6px;
+            }
+            .scrollbar-thin::-webkit-scrollbar-thumb {
+                background-color: rgba(22, 93, 255, 0.3);
+                border-radius: 3px;
+            }
+        }
+    </style>
+</head>
+<body class="bg-gray-50 min-h-screen font-sans text-dark">
+    <!-- 顶部导航栏 -->
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4 flex flex-col md:flex-row justify-between items-center">
+            <div class="flex items-center mb-4 md:mb-0">
+                <i class="fa fa-book text-primary text-2xl mr-3"></i>
+                <h1 class="text-[clamp(1.5rem,3vw,2rem)] font-bold text-primary">营销技能知识题库</h1>
+            </div>
+            <div class="text-sm text-gray-500">
+                <span id="total-count" class="font-medium text-primary"></span> 道题目 | 支持多关键词搜索
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <!-- 搜索区域 -->
+        <section class="mb-10">
+            <div class="bg-white rounded-xl p-6 search-shadow">
+                <div class="flex flex-col md:flex-row gap-4">
+                    <div class="flex-1">
+                        <label for="search-input" class="block text-sm font-medium text-gray-700 mb-2">
+                            输入关键词搜索题目
+                        </label>
+                        <div class="relative">
+                            <span class="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-400">
+                                <i class="fa fa-search"></i>
+                            </span>
+                            <input 
+                                type="text" 
+                                id="search-input" 
+                                class="w-full pl-10 pr-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/50 focus:border-primary outline-none transition-all"
+                                placeholder="例如：卷烟经营、价格指数、客户分档... 支持多个关键词空格分隔"
+                            >
+                            <button id="clear-btn" class="absolute inset-y-0 right-0 flex items-center pr-3 text-gray-400 hover:text-gray-600 hidden">
+                                <i class="fa fa-times-circle"></i>
+                            </button>
+                        </div>
+                        <p id="search-tip" class="mt-2 text-sm text-gray-500">
+                            提示：可搜索题目内容、知识点、答案等信息
+                        </p>
+                    </div>
+                    
+                    <div class="w-full md:w-64">
+                        <label for="question-type" class="block text-sm font-medium text-gray-700 mb-2">
+                            题目类型筛选
+                        </label>
+                        <select 
+                            id="question-type" 
+                            class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary/50 focus:border-primary outline-none appearance-none bg-white"
+                        >
+                            <option value="all">全部类型</option>
+                            <option value="单选题">单选题</option>
+                            <option value="多选题">多选题</option>
+                            <option value="判断题">判断题</option>
+                        </select>
+                    </div>
+                    
+                    <div class="w-full md:w-64 self-end">
+                        <label class="block text-sm font-medium text-gray-700 mb-2">
+                            操作
+                        </label>
+                        <button 
+                            id="search-btn" 
+                            class="w-full bg-primary hover:bg-primary/90 text-white font-medium py-3 px-4 rounded-lg transition-all flex items-center justify-center"
+                        >
+                            <i class="fa fa-search mr-2"></i> 搜索题目
+                        </button>
+                    </div>
+                </div>
+                
+                <!-- 搜索结果统计 -->
+                <div id="result-stats" class="mt-6 hidden">
+                    <div class="flex flex-wrap items-center gap-3 text-sm">
+                        <span class="text-gray-700">找到 <span id="match-count" class="font-bold text-primary"></span> 道匹配题目</span>
+                        <span class="text-gray-500">搜索时间：<span id="search-time"></span> 毫秒</span>
+                        <button id="reset-btn" class="text-primary hover:text-primary/80 flex items-center">
+                            <i class="fa fa-refresh mr-1"></i> 重置筛选
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 题目列表区域 -->
+        <section>
+            <div id="loading" class="hidden flex justify-center items-center py-16">
+                <div class="flex flex-col items-center">
+                    <div class="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-primary"></div>
+                    <p class="mt-4 text-gray-600">正在搜索题目...</p>
+                </div>
+            </div>
+
+            <div id="no-result" class="hidden bg-white rounded-xl p-10 text-center">
+                <div class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-gray-100 mb-4">
+                    <i class="fa fa-search text-2xl text-gray-400"></i>
+                </div>
+                <h3 class="text-lg font-medium text-gray-900 mb-1">未找到匹配的题目</h3>
+                <p class="text-gray-500 mb-6">请尝试调整关键词或筛选条件</p>
+                <button id="try-again-btn" class="inline-flex items-center px-4 py-2 border border-transparent text-sm font-medium rounded-md shadow-sm text-white bg-primary hover:bg-primary/90">
+                    <i class="fa fa-refresh mr-2"></i> 重新搜索
+                </button>
+            </div>
+
+            <div id="questions-container" class="grid grid-cols-1 gap-6">
+                <!-- 题目卡片将通过JavaScript动态生成 -->
+            </div>
+
+            <!-- 分页控件 -->
+            <div id="pagination" class="hidden mt-10 flex justify-center">
+                <nav class="flex items-center" aria-label="Pagination">
+                    <button id="prev-page" class="px-3 py-2 rounded-l-md border border-gray-300 bg-white text-sm font-medium text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                        <span class="sr-only">上一页</span>
+                        <i class="fa fa-chevron-left"></i>
+                    </button>
+                    <span id="page-info" class="px-3 py-2 border-t border-b border-gray-300 bg-white text-sm font-medium text-gray-700">
+                        第 <span id="current-page">1</span> 页 / 共 <span id="total-pages">1</span> 页
+                    </span>
+                    <button id="next-page" class="px-3 py-2 rounded-r-md border border-gray-300 bg-white text-sm font-medium text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+                        <span class="sr-only">下一页</span>
+                        <i class="fa fa-chevron-right"></i>
+                    </button>
+                </nav>
+            </div>
+        </section>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="container mx-auto px-4 py-6">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <p class="text-sm text-gray-500 mb-4 md:mb-0">
+                    © 2024 营销技能知识题库 | 搜题系统
+                </p>
+                <div class="flex space-x-4">
+                    <a href="#" class="text-gray-400 hover:text-primary transition-colors">
+                        <i class="fa fa-question-circle"></i> 使用帮助
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-primary transition-colors">
+                        <i class="fa fa-info-circle"></i> 关于系统
+                    </a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // 全局变量
+        let allQuestions = [];
+        let filteredQuestions = [];
+        let currentPage = 1;
+        const pageSize = 10; // 每页显示题目数量
+        
+        // DOM元素
+        const elements = {
+            searchInput: document.getElementById('search-input'),
+            clearBtn: document.getElementById('clear-btn'),
+            questionType: document.getElementById('question-type'),
+            searchBtn: document.getElementById('search-btn'),
+            resetBtn: document.getElementById('reset-btn'),
+            tryAgainBtn: document.getElementById('try-again-btn'),
+            resultStats: document.getElementById('result-stats'),
+            matchCount: document.getElementById('match-count'),
+            searchTime: document.getElementById('search-time'),
+            loading: document.getElementById('loading'),
+            noResult: document.getElementById('no-result'),
+            questionsContainer: document.getElementById('questions-container'),
+            pagination: document.getElementById('pagination'),
+            prevPage: document.getElementById('prev-page'),
+            nextPage: document.getElementById('next-page'),
+            currentPage: document.getElementById('current-page'),
+            totalPages: document.getElementById('total-pages'),
+            totalCount: document.getElementById('total-count'),
+            searchTip: document.getElementById('search-tip')
+        };
+
+        // 初始化函数
+        async function init() {
+            try {
+                // 加载题目数据
+                const response = await fetch('questions_data.json');
+                allQuestions = await response.json();
+                
+                // 更新总题目数
+                elements.totalCount.textContent = allQuestions.length;
+                
+                // 默认显示第一页题目
+                filteredQuestions = [...allQuestions];
+                renderQuestions();
+                updatePagination();
+                
+                // 绑定事件监听
+                bindEvents();
+                
+            } catch (error) {
+                console.error('初始化失败:', error);
+                alert('题库加载失败，请检查文件路径是否正确');
+            }
+        }
+
+        // 绑定事件监听
+        function bindEvents() {
+            // 搜索按钮点击
+            elements.searchBtn.addEventListener('click', performSearch);
+            
+            // 回车键触发搜索
+            elements.searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') performSearch();
+            });
+            
+            // 清除搜索框
+            elements.clearBtn.addEventListener('click', () => {
+                elements.searchInput.value = '';
+                elements.clearBtn.classList.add('hidden');
+                elements.searchTip.classList.remove('hidden');
+            });
+            
+            // 搜索框输入变化
+            elements.searchInput.addEventListener('input', () => {
+                if (elements.searchInput.value.trim()) {
+                    elements.clearBtn.classList.remove('hidden');
+                    elements.searchTip.classList.add('hidden');
+                } else {
+                    elements.clearBtn.classList.add('hidden');
+                    elements.searchTip.classList.remove('hidden');
+                }
+            });
+            
+            // 重置筛选
+            elements.resetBtn.addEventListener('click', resetFilters);
+            elements.tryAgainBtn.addEventListener('click', resetFilters);
+            
+            // 分页控制
+            elements.prevPage.addEventListener('click', goToPrevPage);
+            elements.nextPage.addEventListener('click', goToNextPage);
+            
+            // 题目类型筛选变化
+            elements.questionType.addEventListener('change', performSearch);
+        }
+
+        // 执行搜索
+        function performSearch() {
+            // 显示加载状态
+            elements.loading.classList.remove('hidden');
+            elements.questionsContainer.classList.add('hidden');
+            elements.noResult.classList.add('hidden');
+            elements.pagination.classList.add('hidden');
+            
+            // 使用setTimeout模拟搜索延迟，提升用户体验
+            setTimeout(() => {
+                const startTime = performance.now();
+                
+                // 获取搜索条件
+                const searchKeywords = elements.searchInput.value.trim().toLowerCase().split(/\s+/).filter(k => k);
+                const selectedType = elements.questionType.value;
+                
+                // 筛选题目
+                filteredQuestions = allQuestions.filter(question => {
+                    // 类型筛选
+                    if (selectedType !== 'all' && question.type !== selectedType) {
+                        return false;
+                    }
+                    
+                    // 关键词筛选（如果有关键词）
+                    if (searchKeywords.length === 0) {
+                        return true;
+                    }
+                    
+                    // 构建搜索文本（题目、知识点、答案、选项等）
+                    const searchText = [
+                        question.title.toLowerCase(),
+                        question.knowledge_point.toLowerCase(),
+                        question.answer.toLowerCase(),
+                        question.analysis.toLowerCase(),
+                        question.keywords.toLowerCase(),
+                        ...question.options.map(opt => opt.content.toLowerCase())
+                    ].join(' ');
+                    
+                    // 检查所有关键词是否都存在
+                    return searchKeywords.every(keyword => searchText.includes(keyword));
+                });
+                
+                // 计算搜索时间
+                const endTime = performance.now();
+                const searchDuration = Math.round(endTime - startTime);
+                
+                // 更新UI
+                elements.searchTime.textContent = searchDuration;
+                elements.matchCount.textContent = filteredQuestions.length;
+                elements.resultStats.classList.remove('hidden');
+                
+                // 重置到第一页
+                currentPage = 1;
+                
+                // 渲染结果
+                if (filteredQuestions.length === 0) {
+                    elements.loading.classList.add('hidden');
+                    elements.noResult.classList.remove('hidden');
+                } else {
+                    renderQuestions();
+                    updatePagination();
+                    elements.loading.classList.add('hidden');
+                    elements.questionsContainer.classList.remove('hidden');
+                    elements.pagination.classList.remove('hidden');
+                }
+                
+            }, 300);
+        }
+
+        // 重置筛选条件
+        function resetFilters() {
+            elements.searchInput.value = '';
+            elements.questionType.value = 'all';
+            elements.clearBtn.classList.add('hidden');
+            elements.searchTip.classList.remove('hidden');
+            
+            // 执行搜索（显示全部题目）
+            performSearch();
+        }
+
+        // 渲染题目列表
+        function renderQuestions() {
+            // 清空容器
+            elements.questionsContainer.innerHTML = '';
+            
+            // 计算当前页显示的题目范围
+            const startIndex = (currentPage - 1) * pageSize;
+            const endIndex = Math.min(startIndex + pageSize, filteredQuestions.length);
+            const currentQuestions = filteredQuestions.slice(startIndex, endIndex);
+            
+            // 渲染每个题目
+            currentQuestions.forEach(question => {
+                const questionCard = createQuestionCard(question);
+                elements.questionsContainer.appendChild(questionCard);
+            });
+            
+            // 绑定答案展开/折叠事件
+            document.querySelectorAll('.answer-toggle').forEach(toggle => {
+                toggle.addEventListener('click', function() {
+                    const answerContent = this.nextElementSibling;
+                    const icon = this.querySelector('i');
+                    
+                    if (answerContent.classList.contains('hidden')) {
+                        answerContent.classList.remove('hidden');
+                        icon.classList.remove('fa-chevron-down');
+                        icon.classList.add('fa-chevron-up');
+                        this.querySelector('span').textContent = '收起答案';
+                    } else {
+                        answerContent.classList.add('hidden');
+                        icon.classList.remove('fa-chevron-up');
+                        icon.classList.add('fa-chevron-down');
+                        this.querySelector('span').textContent = '查看答案';
+                    }
+                });
+            });
+        }
+
+        // 创建题目卡片
+        function createQuestionCard(question) {
+            const card = document.createElement('div');
+            card.className = 'bg-white rounded-xl p-6 shadow-sm card-hover';
+            
+            // 题目头部
+            let cardHTML = `
+                <div class="mb-4">
+                    <div class="flex justify-between items-start mb-3">
+                        <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-primary/10 text-primary">
+                            ${question.type}
+                        </span>
+                        <span class="text-xs text-gray-500">
+                            知识点: ${question.knowledge_point || '未分类'}
+                        </span>
+                    </div>
+                    <h3 class="text-lg font-medium text-gray-900 mb-2">
+                        ${question.id}. ${question.title}
+                    </h3>
+                </div>
+            `;
+            
+            // 选项（如果有）
+            if (question.options.length > 0) {
+                cardHTML += `
+                    <div class="mb-4 pl-2 border-l-2 border-gray-200">
+                        <h4 class="text-sm font-medium text-gray-700 mb-2">选项：</h4>
+                        <div class="space-y-2">
+                `;
+                
+                question.options.forEach(option => {
+                    // 标记正确答案
+                    const isCorrect = question.answer.includes(option.label.replace('选项', ''));
+                    const correctClass = isCorrect ? 'text-primary font-medium' : '';
+                    const correctMark = isCorrect ? '<i class="fa fa-check-circle text-primary ml-1"></i>' : '';
+                    
+                    cardHTML += `
+                        <div class="flex items-start ${correctClass}">
+                            <span class="inline-block w-6 text-sm">${option.label}：</span>
+                            <span class="text-sm">${option.content}${correctMark}</span>
+                        </div>
+                    `;
+                });
+                
+                cardHTML += `
+                        </div>
+                    </div>
+                `;
+            }
+            
+            // 答案区域（默认折叠）
+            cardHTML += `
+                <div class="mt-4">
+                    <div class="answer-toggle flex items-center text-primary text-sm font-medium">
+                        <i class="fa fa-chevron-down mr-1"></i>
+                        <span>查看答案</span>
+                    </div>
+                    <div class="answer-content hidden mt-3 p-3 bg-neutral rounded-lg">
+                        <div class="mb-2">
+                            <span class="text-sm font-medium text-gray-700">正确答案：</span>
+                            <span class="text-sm text-primary font-medium">${formatAnswer(question)}</span>
+                        </div>
+                        ${question.analysis ? `
+                            <div>
+                                <span class="text-sm font-medium text-gray-700">答案解析：</span>
+                                <span class="text-sm text-gray-600">${question.analysis || '暂无解析'}</span>
+                            </div>
+                        ` : ''}
+                        ${question.keywords ? `
+                            <div class="mt-2">
+                                <span class="text-sm font-medium text-gray-700">得分关键词：</span>
+                                <span class="text-sm text-gray-600">${question.keywords}</span>
+                            </div>
+                        ` : ''}
+                    </div>
+                </div>
+            `;
+            
+            card.innerHTML = cardHTML;
+            return card;
+        }
+
+        // 格式化答案显示
+        function formatAnswer(question) {
+            if (question.type === '单选题' || question.type === '判断题') {
+                return `选项${question.answer}`;
+            } else if (question.type === '多选题') {
+                // 处理多选题答案（如ABC变成选项A、选项B、选项C）
+                return question.answer.split('').map(letter => `选项${letter}`).join('、');
+            }
+            return question.answer;
+        }
+
+        // 更新分页控件
+        function updatePagination() {
+            const totalPagesCount = Math.ceil(filteredQuestions.length / pageSize);
+            
+            elements.currentPage.textContent = currentPage;
+            elements.totalPages.textContent = totalPagesCount;
+            
+            // 禁用/启用分页按钮
+            elements.prevPage.disabled = currentPage === 1;
+            elements.nextPage.disabled = currentPage === totalPagesCount;
+            
+            // 如果只有一页，隐藏分页控件
+            if (totalPagesCount <= 1) {
+                elements.pagination.classList.add('hidden');
+            } else {
+                elements.pagination.classList.remove('hidden');
+            }
+        }
+
+        // 上一页
+        function goToPrevPage() {
+            if (currentPage > 1) {
+                currentPage--;
+                renderQuestions();
+                updatePagination();
+                scrollToTop();
+            }
+        }
+
+        // 下一页
+        function goToNextPage() {
+            const totalPagesCount = Math.ceil(filteredQuestions.length / pageSize);
+            if (currentPage < totalPagesCount) {
+                currentPage++;
+                renderQuestions();
+                updatePagination();
+                scrollToTop();
+            }
+        }
+
+        // 滚动到题目列表顶部
+        function scrollToTop() {
+            elements.questionsContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+
+        // 页面加载完成后初始化
+        document.addEventListener('DOMContentLoaded', init);
+    </script>
+</body>
+</html>
