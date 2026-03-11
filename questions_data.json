@@ -1,0 +1,7636 @@
+[
+  {
+    "id": 1,
+    "type": "单选题",
+    "title": "烟草行业一号工程是？",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "办公自动化系统建设"
+      },
+      {
+        "label": "选项B",
+        "content": "电子商务系统建设"
+      },
+      {
+        "label": "选项C",
+        "content": "文明吸烟环境建设"
+      },
+      {
+        "label": "选项D",
+        "content": "卷烟生产经营决策管理系统"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "单选题",
+    "title": "市场状态为平衡状态下的零售价格指数A为？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "A<0.95"
+      },
+      {
+        "label": "选项B",
+        "content": "0.95=<A<0.97"
+      },
+      {
+        "label": "选项C",
+        "content": "0.97<=A<0.99"
+      },
+      {
+        "label": "选项D",
+        "content": "0.99<=A<1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "单选题",
+    "title": "市场状态为稍紧状态下的零售价格指数A为？",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "A<0.95"
+      },
+      {
+        "label": "选项B",
+        "content": "0.95=<A<0.97"
+      },
+      {
+        "label": "选项C",
+        "content": "0.97<=A<0.99"
+      },
+      {
+        "label": "选项D",
+        "content": "0.99<=A<1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "type": "单选题",
+    "title": "在烟草行业市场化取向改革客户评价分档方法的分档维度要客观、可量化，测评周期不得短于（）个订货周期？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2"
+      },
+      {
+        "label": "选项B",
+        "content": "3"
+      },
+      {
+        "label": "选项C",
+        "content": "4"
+      },
+      {
+        "label": "选项D",
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "单选题",
+    "title": "中华(软)的批发价？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "582"
+      },
+      {
+        "label": "选项B",
+        "content": "583"
+      },
+      {
+        "label": "选项C",
+        "content": "584"
+      },
+      {
+        "label": "选项D",
+        "content": "585"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "单选题",
+    "title": "中华(硬)的批发价？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "381.5"
+      },
+      {
+        "label": "选项B",
+        "content": "381.6"
+      },
+      {
+        "label": "选项C",
+        "content": "382.5"
+      },
+      {
+        "label": "选项D",
+        "content": "382.6"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "单选题",
+    "title": "钻石(荷花)的批发价？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "275.6"
+      },
+      {
+        "label": "选项B",
+        "content": "276.6"
+      },
+      {
+        "label": "选项C",
+        "content": "277.6"
+      },
+      {
+        "label": "选项D",
+        "content": "278.6"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "type": "单选题",
+    "title": "南京(炫赫门)的批发价？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "153"
+      },
+      {
+        "label": "选项B",
+        "content": "154"
+      },
+      {
+        "label": "选项C",
+        "content": "155"
+      },
+      {
+        "label": "选项D",
+        "content": "156"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "type": "单选题",
+    "title": "黄金叶(天叶)的批发价？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "676.4"
+      },
+      {
+        "label": "选项B",
+        "content": "677.4"
+      },
+      {
+        "label": "选项C",
+        "content": "678.4"
+      },
+      {
+        "label": "选项D",
+        "content": "679.4"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "type": "单选题",
+    "title": "黄金叶(乐途)的批发价？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "121.9"
+      },
+      {
+        "label": "选项B",
+        "content": "122.9"
+      },
+      {
+        "label": "选项C",
+        "content": "123.9"
+      },
+      {
+        "label": "选项D",
+        "content": "124.9"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "type": "单选题",
+    "title": "黄金叶(小目标)的批发价？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "121.9"
+      },
+      {
+        "label": "选项B",
+        "content": "122.9"
+      },
+      {
+        "label": "选项C",
+        "content": "123.9"
+      },
+      {
+        "label": "选项D",
+        "content": "124.9"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "type": "单选题",
+    "title": "黄金叶(硬红旗渠)的批发价？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "96"
+      },
+      {
+        "label": "选项B",
+        "content": "97"
+      },
+      {
+        "label": "选项C",
+        "content": "98"
+      },
+      {
+        "label": "选项D",
+        "content": "99"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "type": "单选题",
+    "title": "德尔菲法是现在应用较为普遍的（  ）之一。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "购买者意向调查法"
+      },
+      {
+        "label": "选项B",
+        "content": "销售人员综合意见法"
+      },
+      {
+        "label": "选项C",
+        "content": "专家意见法  "
+      },
+      {
+        "label": "选项D",
+        "content": "定量预测法"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "单选题",
+    "title": "对企业营销活动产生直接作用的是（）。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "宏观消费环境"
+      },
+      {
+        "label": "选项B",
+        "content": "宏观营销环境"
+      },
+      {
+        "label": "选项C",
+        "content": "微观消费环境 "
+      },
+      {
+        "label": "选项D",
+        "content": "微观营销环境"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "单选题",
+    "title": "（ ）直接显示出企业竞争实力。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "销售增长率"
+      },
+      {
+        "label": "选项B",
+        "content": "资金利用率"
+      },
+      {
+        "label": "选项C",
+        "content": "技术 "
+      },
+      {
+        "label": "选项D",
+        "content": "市场占有率"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "单选题",
+    "title": "（）是应用客观的态度和科学的方法，对某种社会现象，在确定的范围内进行实地考察，并收集大量资料以统计分析，从而探讨社会现象的一种方法。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "文案调查法"
+      },
+      {
+        "label": "选项B",
+        "content": "实地调查法"
+      },
+      {
+        "label": "选项C",
+        "content": "未来调查法"
+      },
+      {
+        "label": "选项D",
+        "content": "观察调查法"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "单选题",
+    "title": "市场调研的具体对象是（）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户"
+      },
+      {
+        "label": "选项B",
+        "content": "市场"
+      },
+      {
+        "label": "选项C",
+        "content": "消费者"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "单选题",
+    "title": "市场调研的重点调查对象是（）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户"
+      },
+      {
+        "label": "选项B",
+        "content": "市场"
+      },
+      {
+        "label": "选项C",
+        "content": "消费者市场"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "type": "单选题",
+    "title": "理论上抽样方法很多，主要分为（）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "概率抽样和非概率抽样"
+      },
+      {
+        "label": "选项B",
+        "content": "样本抽样和非样本抽样"
+      },
+      {
+        "label": "选项C",
+        "content": "母体抽样和非母体抽样"
+      },
+      {
+        "label": "选项D",
+        "content": "简单抽样和复杂抽样"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "type": "单选题",
+    "title": "一般认为，恩格尔系数越（）生活水平越（），反之系数越（），生活水平越（）。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "小，高；大，高"
+      },
+      {
+        "label": "选项B",
+        "content": "小，低；大，高"
+      },
+      {
+        "label": "选项C",
+        "content": "大，高；小，低"
+      },
+      {
+        "label": "选项D",
+        "content": "大，低；小，高"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "type": "单选题",
+    "title": "（）就是以典型企业的营销成果作为例证，从中找出规律性的东西。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "比较分析法"
+      },
+      {
+        "label": "选项B",
+        "content": "系统分析法"
+      },
+      {
+        "label": "选项C",
+        "content": "案例分析法"
+      },
+      {
+        "label": "选项D",
+        "content": "成果分析法"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "type": "单选题",
+    "title": "以下哪项不属于诚信互助小组的运行原则（）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "自组织"
+      },
+      {
+        "label": "选项B",
+        "content": "自适应"
+      },
+      {
+        "label": "选项C",
+        "content": "自处罚"
+      },
+      {
+        "label": "选项D",
+        "content": "自管理"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "type": "单选题",
+    "title": "烟草行业市场化取向改革客户评价分档方法包括确定分档维度，明确分档规则，（），全国统一的省级卷烟营销平台客户分类评价指标。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "严格分档标准"
+      },
+      {
+        "label": "选项B",
+        "content": "严格分档指标"
+      },
+      {
+        "label": "选项C",
+        "content": "严格分档管理"
+      },
+      {
+        "label": "选项D",
+        "content": " 严格分档规则"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "type": "单选题",
+    "title": "1条标准烟等于多少支烟",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "150"
+      },
+      {
+        "label": "选项B",
+        "content": "200"
+      },
+      {
+        "label": "选项C",
+        "content": "250"
+      },
+      {
+        "label": "选项D",
+        "content": "300"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "单选题",
+    "title": "《反垄断法》第四十七条规定，经营者违反本法规定，滥用市场支配地位的，由反垄断执法机构责令停止违法行为，没收违法所得，并处上一年度销售额（）的罚款。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "百分之一以上百分之五以下"
+      },
+      {
+        "label": "选项B",
+        "content": "百分之一以上百分之十以下"
+      },
+      {
+        "label": "选项C",
+        "content": "百分之三以上百分之十以下"
+      },
+      {
+        "label": "选项D",
+        "content": "百分之五以上百分之十以下"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "单选题",
+    "title": "下列内容不属于诚信小组活动目的的是（）",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "协助卷烟零售客户积极参与客户诚信小组活动"
+      },
+      {
+        "label": "选项B",
+        "content": "构建公平、诚信、守法的卷烟市场环境"
+      },
+      {
+        "label": "选项C",
+        "content": "维护国家利益、消费者利益和零售户合法利益"
+      },
+      {
+        "label": "选项D",
+        "content": "统一卷烟市场零售价格"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "单选题",
+    "title": "（）是影响消费者行为最广泛的因素",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "文化因素"
+      },
+      {
+        "label": "选项B",
+        "content": "社会因素"
+      },
+      {
+        "label": "选项C",
+        "content": "经济因素"
+      },
+      {
+        "label": "选项D",
+        "content": "个人因素"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "type": "单选题",
+    "title": "2015年9月1日，我国新修订并正式施行的（），被人们称为“史上最严控烟法律”。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "《反垄断法》"
+      },
+      {
+        "label": "选项B",
+        "content": "《广告法》"
+      },
+      {
+        "label": "选项C",
+        "content": "《北京市控制吸烟条列》"
+      },
+      {
+        "label": "选项D",
+        "content": "《反不正当竞争法》"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "type": "单选题",
+    "title": "下面哪一项是烟草行业的共同愿景（）",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "深化改革.推动重组.走向联合.共同发展"
+      },
+      {
+        "label": "选项B",
+        "content": "国家利益.消费者利益至上"
+      },
+      {
+        "label": "选项C",
+        "content": "做精做强主业，保持平衡发展"
+      },
+      {
+        "label": "选项D",
+        "content": "责任烟草.诚信烟草.和谐烟草"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "type": "单选题",
+    "title": "（）的高低是衡量当地购买能力的依据。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "毛利率"
+      },
+      {
+        "label": "选项B",
+        "content": "动销率"
+      },
+      {
+        "label": "选项C",
+        "content": "销量增长率"
+      },
+      {
+        "label": "选项D",
+        "content": "上柜率"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "type": "单选题",
+    "title": "（）问题，有助于发挥被访者的主动性和想象力。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "封闭式"
+      },
+      {
+        "label": "选项B",
+        "content": "开放式"
+      },
+      {
+        "label": "选项C",
+        "content": "半开放式"
+      },
+      {
+        "label": "选项D",
+        "content": "量表"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "type": "单选题",
+    "title": "预测性调研是指对（）可能出现的市场行情变动趋势进行了调研，属于市场预测的范畴。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "当前"
+      },
+      {
+        "label": "选项B",
+        "content": "短期"
+      },
+      {
+        "label": "选项C",
+        "content": "长期"
+      },
+      {
+        "label": "选项D",
+        "content": "未来"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "type": "单选题",
+    "title": "（）是衡量商品毛利水平的指标，对商品日常经营有重要的指导作用。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "毛利"
+      },
+      {
+        "label": "选项B",
+        "content": "毛利率 "
+      },
+      {
+        "label": "选项C",
+        "content": "销量增长率"
+      },
+      {
+        "label": "选项D",
+        "content": "动销率"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "type": "单选题",
+    "title": "高价位卷烟是指批发价在（）元/条以上的卷烟",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "400"
+      },
+      {
+        "label": "选项B",
+        "content": "405"
+      },
+      {
+        "label": "选项C",
+        "content": "410"
+      },
+      {
+        "label": "选项D",
+        "content": "600"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "type": "单选题",
+    "title": "高端卷烟是指批发价在（）元/条以上、（）元/条以下的卷烟",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "263、405"
+      },
+      {
+        "label": "选项B",
+        "content": "263、600"
+      },
+      {
+        "label": "选项C",
+        "content": "260、405"
+      },
+      {
+        "label": "选项D",
+        "content": "260、400"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "type": "单选题",
+    "title": "一类卷烟是指批发价在（）元/条以上的卷烟",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "156"
+      },
+      {
+        "label": "选项B",
+        "content": "157"
+      },
+      {
+        "label": "选项C",
+        "content": "158"
+      },
+      {
+        "label": "选项D",
+        "content": "159"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "type": "单选题",
+    "title": "二类卷烟是指批发价在（）元/条以上、（）元/条以下的卷烟",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "100、156"
+      },
+      {
+        "label": "选项B",
+        "content": "100、158"
+      },
+      {
+        "label": "选项C",
+        "content": "110、156"
+      },
+      {
+        "label": "选项D",
+        "content": "110、158"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "type": "单选题",
+    "title": "低价位卷烟是指批发价在（）元/条以下的卷烟",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "75"
+      },
+      {
+        "label": "选项B",
+        "content": "76"
+      },
+      {
+        "label": "选项C",
+        "content": "77"
+      },
+      {
+        "label": "选项D",
+        "content": "78"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "type": "单选题",
+    "title": "以下哪个是四川中烟生产的雪茄烟品牌？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "长城"
+      },
+      {
+        "label": "选项B",
+        "content": "泰山"
+      },
+      {
+        "label": "选项C",
+        "content": "王冠"
+      },
+      {
+        "label": "选项D",
+        "content": "战神"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "type": "多选题",
+    "title": "以下哪个是山东中烟生产的雪茄烟品牌？",
+    "answer": "BD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "长城"
+      },
+      {
+        "label": "选项B",
+        "content": "泰山"
+      },
+      {
+        "label": "选项C",
+        "content": "王冠"
+      },
+      {
+        "label": "选项D",
+        "content": "将军"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "type": "单选题",
+    "title": "以下哪个是安徽中烟生产的雪茄烟品牌？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "长城"
+      },
+      {
+        "label": "选项B",
+        "content": "泰山"
+      },
+      {
+        "label": "选项C",
+        "content": "王冠"
+      },
+      {
+        "label": "选项D",
+        "content": "将军"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "type": "单选题",
+    "title": "以下哪个是广西中烟生产的卷烟品牌？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "七匹狼"
+      },
+      {
+        "label": "选项B",
+        "content": "真龙"
+      },
+      {
+        "label": "选项C",
+        "content": "好猫"
+      },
+      {
+        "label": "选项D",
+        "content": "金圣"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "type": "单选题",
+    "title": "以下哪个是福建中烟生产的卷烟品牌？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "七匹狼"
+      },
+      {
+        "label": "选项B",
+        "content": "真龙"
+      },
+      {
+        "label": "选项C",
+        "content": "好猫"
+      },
+      {
+        "label": "选项D",
+        "content": "金圣"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "type": "单选题",
+    "title": "以下哪个是陕西中烟生产的卷烟品牌？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "七匹狼"
+      },
+      {
+        "label": "选项B",
+        "content": "真龙"
+      },
+      {
+        "label": "选项C",
+        "content": "好猫"
+      },
+      {
+        "label": "选项D",
+        "content": "金圣"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "type": "单选题",
+    "title": "以下哪个是江西中烟生产的卷烟品牌？",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "七匹狼"
+      },
+      {
+        "label": "选项B",
+        "content": "真龙"
+      },
+      {
+        "label": "选项C",
+        "content": "好猫"
+      },
+      {
+        "label": "选项D",
+        "content": "金圣"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "type": "单选题",
+    "title": "以下哪个是重庆中烟生产的卷烟品牌？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "天子"
+      },
+      {
+        "label": "选项B",
+        "content": "好猫"
+      },
+      {
+        "label": "选项C",
+        "content": "七匹狼"
+      },
+      {
+        "label": "选项D",
+        "content": "真龙"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "type": "单选题",
+    "title": "小王为调研辖区零售客户对商业企业客户服务的满意度，准备在本地区的零售户中进行抽样调查，抽样过程中他从名册中序号第一位零售户开始抽取，然后每间隔二十位抽取下一位，他采用的抽样方法属于（）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "简单随机抽样  "
+      },
+      {
+        "label": "选项B",
+        "content": "分层抽样"
+      },
+      {
+        "label": "选项C",
+        "content": "系统抽样 "
+      },
+      {
+        "label": "选项D",
+        "content": "整群抽样"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "type": "单选题",
+    "title": "市场状态一级评价结果为（）的情况，需要进行市场状态二级评价。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "松 "
+      },
+      {
+        "label": "选项B",
+        "content": "稍松 "
+      },
+      {
+        "label": "选项C",
+        "content": "待定  "
+      },
+      {
+        "label": "选项D",
+        "content": "紧"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "type": "单选题",
+    "title": "（）是激励的核心要素，是推动人从事某种行为的心理动力。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "动机"
+      },
+      {
+        "label": "选项B",
+        "content": "需求  "
+      },
+      {
+        "label": "选项C",
+        "content": "行为 "
+      },
+      {
+        "label": "选项D",
+        "content": "外部刺激"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "type": "单选题",
+    "title": "马斯洛需求层次理论由低到高分为（）五类。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "生理需求、安全需求、社会需求、尊重需求、自我实现需求"
+      },
+      {
+        "label": "选项B",
+        "content": "安全需求、社会需求、尊重需求、自我实现需求、生理需求"
+      },
+      {
+        "label": "选项C",
+        "content": "生理需求、尊重需求、自我实现需求、安全需求、社会需求\n"
+      },
+      {
+        "label": "选项D",
+        "content": "生理需求、安全需求、尊重需求、社会需求、自我实现需求"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "type": "单选题",
+    "title": "（）是对未来市场需求前景的展望和推测，是市场预测的一个重要组成部分。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "当地市场预测"
+      },
+      {
+        "label": "选项B",
+        "content": "全国性市场预测"
+      },
+      {
+        "label": "选项C",
+        "content": "地区性市场预测"
+      },
+      {
+        "label": "选项D",
+        "content": "市场潜量预测"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "type": "单选题",
+    "title": "以日、周、旬、月为时间单位，对一个季度内市场需求量的预测是哪种预测？( )",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "短期预测"
+      },
+      {
+        "label": "选项B",
+        "content": "中期预测"
+      },
+      {
+        "label": "选项C",
+        "content": "近期预测"
+      },
+      {
+        "label": "选项D",
+        "content": "长期预测"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "type": "单选题",
+    "title": "市场信息采集最基本的原则是（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "完整性"
+      },
+      {
+        "label": "选项B",
+        "content": "准确性"
+      },
+      {
+        "label": "选项C",
+        "content": "及时性"
+      },
+      {
+        "label": "选项D",
+        "content": "系统性"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "type": "单选题",
+    "title": "某烟草商业企业通过分析发现，某零售客户当日销售数据波动超出 [-50%, +50%] 范围，该指标属于零售客户店铺管理系统数据采集监测中的（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "评测指标"
+      },
+      {
+        "label": "选项B",
+        "content": "监控指标"
+      },
+      {
+        "label": "选项C",
+        "content": "存销比合理性指标"
+      },
+      {
+        "label": "选项D",
+        "content": "单店销售合理性指标"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "type": "单选题",
+    "title": "零售客户店铺管理系统数据采集的内容不包括（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "订单信息"
+      },
+      {
+        "label": "选项B",
+        "content": "员工信息"
+      },
+      {
+        "label": "选项C",
+        "content": "库存信息"
+      },
+      {
+        "label": "选项D",
+        "content": "消费者信息"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "type": "单选题",
+    "title": "按答案类型划分，调研问卷不包括（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "封闭式问卷"
+      },
+      {
+        "label": "选项B",
+        "content": "自填式问卷"
+      },
+      {
+        "label": "选项C",
+        "content": "开放式问卷"
+      },
+      {
+        "label": "选项D",
+        "content": "半开放式问卷"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "type": "单选题",
+    "title": "以下属于卷烟消费结构影响因素的是（ ）。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人口吸烟率"
+      },
+      {
+        "label": "选项B",
+        "content": "烟民人均年吸烟量"
+      },
+      {
+        "label": "选项C",
+        "content": "可支配收入"
+      },
+      {
+        "label": "选项D",
+        "content": "人口基数"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "type": "单选题",
+    "title": "某烟草企业在设计调研问卷时，设置了 “您是否愿意尝试新品牌卷烟？A. 非常愿意；B. 愿意；C. 一般；D. 不愿意；E. 非常不愿意” 这样的问题，该问题属于（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "开放式问题"
+      },
+      {
+        "label": "选项B",
+        "content": "封闭式问题"
+      },
+      {
+        "label": "选项C",
+        "content": "半开放式问题"
+      },
+      {
+        "label": "选项D",
+        "content": "甄别问题"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "type": "单选题",
+    "title": "某烟草企业通过调研发现，某品牌卷烟在某地区的市场占有率较高，但近期销量有所下降，为了找出原因，该企业应进行（ ）。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "卷烟市场状态调研"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌与消费行为调研"
+      },
+      {
+        "label": "选项C",
+        "content": "宏观营销环境调研"
+      },
+      {
+        "label": "选项D",
+        "content": "零售终端状态调研"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "type": "单选题",
+    "title": "零售客户店铺管理系统数据采集监测中，若某零售客户本月扫码匹配度为 40%（正常范围应≥80%），该指标异常可能反映的情况是（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "该客户经营状况良好"
+      },
+      {
+        "label": "选项B",
+        "content": "可能存在多刷、少刷或未盘库情况"
+      },
+      {
+        "label": "选项C",
+        "content": "客户卷烟销售价格合理"
+      },
+      {
+        "label": "选项D",
+        "content": "客户库存处于合理水平"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "type": "单选题",
+    "title": "某零售客户积极配合烟草公司的新品上柜、宣传促销等活动，这体现了客户价值评估中的（  ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "贡献度"
+      },
+      {
+        "label": "选项B",
+        "content": "支持度"
+      },
+      {
+        "label": "选项C",
+        "content": "信用度"
+      },
+      {
+        "label": "选项D",
+        "content": "成长度"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "type": "单选题",
+    "title": "根据客户价值进行分类，当前价值和潜在价值均较高的客户属于（  ）。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "价值客户"
+      },
+      {
+        "label": "选项B",
+        "content": "次价值客户"
+      },
+      {
+        "label": "选项C",
+        "content": "潜在价值客户"
+      },
+      {
+        "label": "选项D",
+        "content": "低价值客户"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "type": "单选题",
+    "title": "客户拜访时，营销人员倾听客户意见时，以下做法错误的是（  ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "给予适当回应"
+      },
+      {
+        "label": "选项B",
+        "content": "随意打断对方"
+      },
+      {
+        "label": "选项C",
+        "content": "做好关键对话记录"
+      },
+      {
+        "label": "选项D",
+        "content": "注意力集中"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "type": "单选题",
+    "title": "市场分析的基础是（ ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "数据"
+      },
+      {
+        "label": "选项B",
+        "content": "结论"
+      },
+      {
+        "label": "选项C",
+        "content": "观点"
+      },
+      {
+        "label": "选项D",
+        "content": "经验"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "type": "单选题",
+    "title": "市场分析应提供数据背后的真相而非（ ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "分析数据"
+      },
+      {
+        "label": "选项B",
+        "content": "展示数据"
+      },
+      {
+        "label": "选项C",
+        "content": "罗列数据"
+      },
+      {
+        "label": "选项D",
+        "content": "解释数据"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "type": "单选题",
+    "title": "市场分析的根本目的是（ ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "收集大量数据"
+      },
+      {
+        "label": "选项B",
+        "content": "展示分析过程"
+      },
+      {
+        "label": "选项C",
+        "content": "从信息、数据中找出问题、发现规律，为下一步市场营销活动指明方向"
+      },
+      {
+        "label": "选项D",
+        "content": "得出更多结论"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "type": "单选题",
+    "title": "品牌维度的分析通常从哪两个层面展开（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "总体情况、市场类型"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌、规格"
+      },
+      {
+        "label": "选项C",
+        "content": "现状、趋势"
+      },
+      {
+        "label": "选项D",
+        "content": "市场、客户"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "type": "单选题",
+    "title": "客户维度的分析内容不包括（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "毛利率"
+      },
+      {
+        "label": "选项B",
+        "content": "市场覆盖率"
+      },
+      {
+        "label": "选项C",
+        "content": "货源满足率"
+      },
+      {
+        "label": "选项D",
+        "content": "客户满意度"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "type": "单选题",
+    "title": "消费者维度的分析通常从哪两个层面展开（ ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "总体情况、市场类型"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌、规格"
+      },
+      {
+        "label": "选项C",
+        "content": "现状、趋势"
+      },
+      {
+        "label": "选项D",
+        "content": "市场、客户"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "type": "单选题",
+    "title": "离散趋势分析反映的是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "数据的集中程度"
+      },
+      {
+        "label": "选项B",
+        "content": "数据之间的差异程度"
+      },
+      {
+        "label": "选项C",
+        "content": "数据的变化趋势"
+      },
+      {
+        "label": "选项D",
+        "content": "数据的整体规模"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "type": "单选题",
+    "title": "社会库存分析对企业的主要作用是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "提高生产效率"
+      },
+      {
+        "label": "选项B",
+        "content": "分析市场状态，提高市场把控能力"
+      },
+      {
+        "label": "选项C",
+        "content": "降低生产成本"
+      },
+      {
+        "label": "选项D",
+        "content": "增加产品种类"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "type": "单选题",
+    "title": "以下哪个指标不属于提供基本社会库存信息的指标（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "户均库存量"
+      },
+      {
+        "label": "选项B",
+        "content": "存销比"
+      },
+      {
+        "label": "选项C",
+        "content": "社会库存量"
+      },
+      {
+        "label": "选项D",
+        "content": "库存结构"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "type": "单选题",
+    "title": "存销比是某一时点库存量与（ ）的比值。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "前期销售量"
+      },
+      {
+        "label": "选项B",
+        "content": "后期销售量"
+      },
+      {
+        "label": "选项C",
+        "content": "期间销售量"
+      },
+      {
+        "label": "选项D",
+        "content": "平均销售量"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "type": "单选题",
+    "title": "户均库存量的作用是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "反映存销比波动幅度"
+      },
+      {
+        "label": "选项B",
+        "content": "辅助存销比指标判断社会商品库存合理性"
+      },
+      {
+        "label": "选项C",
+        "content": "衡量社会库存总水平"
+      },
+      {
+        "label": "选项D",
+        "content": "指导日常市场跟踪"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "type": "单选题",
+    "title": "存销比稳定指数越大，说明（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "存销比在不同时期、不同类型零售客户中的差异越小，投放越均衡"
+      },
+      {
+        "label": "选项B",
+        "content": "存销比在不同时期、不同类型零售客户中的差异越大，投放越不均衡"
+      },
+      {
+        "label": "选项C",
+        "content": "市场动销情况越好"
+      },
+      {
+        "label": "选项D",
+        "content": "社会库存总量越合理"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "type": "单选题",
+    "title": "在市场状态综合分析中，低动销、低价格代表市场（ ）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "需求旺盛"
+      },
+      {
+        "label": "选项B",
+        "content": "需求疲软，存在滞销情况"
+      },
+      {
+        "label": "选项C",
+        "content": "供需平衡"
+      },
+      {
+        "label": "选项D",
+        "content": "发展潜力巨大"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "type": "单选题",
+    "title": "在市场状态综合分析中，当社会动销快，可能存在脱销情况时，市场价格却偏低，这种情况属于（ ）。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "动销与价格背离"
+      },
+      {
+        "label": "选项B",
+        "content": "高动销、高价格"
+      },
+      {
+        "label": "选项C",
+        "content": "低动销、低价格"
+      },
+      {
+        "label": "选项D",
+        "content": "正常市场状态"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "type": "单选题",
+    "title": "在分析不同终端类型（如传统烟酒店、新型体验店等）零售终端的经营表现时，主要分析其（ ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "毛利率、动销率"
+      },
+      {
+        "label": "选项B",
+        "content": "装修风格、店内布局"
+      },
+      {
+        "label": "选项C",
+        "content": "会员数量、消费频次"
+      },
+      {
+        "label": "选项D",
+        "content": "线上销售占比、线下销售占比"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "type": "单选题",
+    "title": "结合区域经济社会发展情况进行需求预测，是因为（ ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "经济社会发展会影响卷烟消费需求"
+      },
+      {
+        "label": "选项B",
+        "content": "可以了解其他行业的发展情况"
+      },
+      {
+        "label": "选项C",
+        "content": "能够确定卷烟的生产成本"
+      },
+      {
+        "label": "选项D",
+        "content": "有助于提高企业的市场份额"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "type": "单选题",
+    "title": "烟草行业需求预测工作的核心是（ ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "选择合适的预测方法"
+      },
+      {
+        "label": "选项B",
+        "content": "分析历史销售数据"
+      },
+      {
+        "label": "选项C",
+        "content": "把握区域市场卷烟需求总量及结构"
+      },
+      {
+        "label": "选项D",
+        "content": "关注竞争对手动态"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "type": "单选题",
+    "title": "在形成各品类需求预测基数时，使用的公式是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "各品类预测基数 = 总量预测值 × 各品类未来占比"
+      },
+      {
+        "label": "选项B",
+        "content": "各品类预测基数 = 总量预测值 × 各品类历史占比"
+      },
+      {
+        "label": "选项C",
+        "content": "各品类预测基数 = 总量历史值 × 各品类历史占比"
+      },
+      {
+        "label": "选项D",
+        "content": "各品类预测基数 = 总量历史值 × 各品类未来占比"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "type": "单选题",
+    "title": "品牌知名度的简单测量法公式为（ ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "品牌知名度 = \"购买该品牌的人数\" /\"调查总对象\" ×100%"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌知名度 = \"喜欢该品牌的人数\" /\"调查总对象\" ×100%"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌知名度 = \"知晓该品牌的人数\" /\"调查总对象\" ×100%"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌知名度 = \"调查总对象\"/\"听过该品牌的人数\" ×100%"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "type": "单选题",
+    "title": "若某品牌在一次调查中，知晓该品牌的人数为 80 人，调查总对象为 100 人，用简单测量法计算其品牌知名度为（ ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "0.8"
+      },
+      {
+        "label": "选项B",
+        "content": "0.2"
+      },
+      {
+        "label": "选项C",
+        "content": "0.08"
+      },
+      {
+        "label": "选项D",
+        "content": "0.02"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "type": "单选题",
+    "title": "以下不属于品牌市场表现分析指标的是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "市场占有率"
+      },
+      {
+        "label": "选项B",
+        "content": "产品包装颜色"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌上柜率"
+      },
+      {
+        "label": "选项D",
+        "content": "销售增长率"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "type": "单选题",
+    "title": "市场占有率是指在一定时间内某卷烟品牌占（ ）的比例。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "同品类市场总量"
+      },
+      {
+        "label": "选项B",
+        "content": "所有品牌市场总量"
+      },
+      {
+        "label": "选项C",
+        "content": "同档次品牌市场总量"
+      },
+      {
+        "label": "选项D",
+        "content": "不同品类市场总量"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "type": "单选题",
+    "title": "考察卷烟品牌市场状态的一个重要指标，最直观的市场表现是（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "市场占有率"
+      },
+      {
+        "label": "选项B",
+        "content": "市场价格"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌上柜率"
+      },
+      {
+        "label": "选项D",
+        "content": "销售增长率"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "type": "单选题",
+    "title": "品牌上柜率是衡量（ ）的指标。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "各卷烟品牌上柜销售覆盖面"
+      },
+      {
+        "label": "选项B",
+        "content": "各卷烟品牌的生产成本"
+      },
+      {
+        "label": "选项C",
+        "content": "各卷烟品牌的广告效果"
+      },
+      {
+        "label": "选项D",
+        "content": "各卷烟品牌的市场竞争力"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "type": "单选题",
+    "title": "品牌上柜率的公式为（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "品牌上柜率 = 订购某品牌的零售客户数 / 全部零售户数"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌上柜率 = 订购某品牌的零售客户数 / 全部零售户数 × 100%"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌上柜率 = 全部零售户数 / 订购某品牌的零售客户数"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌上柜率 = 全部零售户数 / 订购某品牌的零售客户数 × 100%"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "type": "单选题",
+    "title": "销量增长率公式为（ ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "销售增长率 = (（本期销售量−基期销售量）)/ 基期销售量"
+      },
+      {
+        "label": "选项B",
+        "content": "销售增长率 = (（本期销售量−基期销售量）)/ 基期销售量 × 100%"
+      },
+      {
+        "label": "选项C",
+        "content": "销售增长率 = (（基期销售量−本期销售量）)/ 基期销售量"
+      },
+      {
+        "label": "选项D",
+        "content": "销售增长率 = (（基期销售量−本期销售量）)/ 基期销售量 × 100%"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "type": "单选题",
+    "title": "在烟草广告受严格控制的大环境下，（  ）是品牌与消费者最近距离接触的场所。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "烟草工厂"
+      },
+      {
+        "label": "选项B",
+        "content": "烟草展会"
+      },
+      {
+        "label": "选项C",
+        "content": "卷烟零售终端"
+      },
+      {
+        "label": "选项D",
+        "content": "烟草批发市场"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "type": "单选题",
+    "title": " 终端推广应从“人、货、场”三个关键因素着手，其中“人”的因素着重关注（  ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "零售客户传播和消费者会员服务"
+      },
+      {
+        "label": "选项B",
+        "content": "消费者购买能力和消费习惯"
+      },
+      {
+        "label": "选项C",
+        "content": "零售客户的进货渠道和库存管理"
+      },
+      {
+        "label": "选项D",
+        "content": "以上都不是"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "type": "单选题",
+    "title": "低现状表现、高发展趋势的品牌规格划入（  ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "导入期"
+      },
+      {
+        "label": "选项B",
+        "content": "成长期"
+      },
+      {
+        "label": "选项C",
+        "content": "成熟期"
+      },
+      {
+        "label": "选项D",
+        "content": "衰退期"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "type": "单选题",
+    "title": "高现状表现、高发展趋势的品牌规格划入（  ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "导入期"
+      },
+      {
+        "label": "选项B",
+        "content": "成长期"
+      },
+      {
+        "label": "选项C",
+        "content": "成熟期"
+      },
+      {
+        "label": "选项D",
+        "content": "衰退期"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "type": "单选题",
+    "title": "高现状表现、低发展趋势的品牌规格划入（  ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "导入期"
+      },
+      {
+        "label": "选项B",
+        "content": "成长期"
+      },
+      {
+        "label": "选项C",
+        "content": "成熟期"
+      },
+      {
+        "label": "选项D",
+        "content": "衰退期"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "type": "单选题",
+    "title": "低现状表现、低发展趋势的品牌规格划入（  ）",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "导入期"
+      },
+      {
+        "label": "选项B",
+        "content": "成长期"
+      },
+      {
+        "label": "选项C",
+        "content": "成熟期"
+      },
+      {
+        "label": "选项D",
+        "content": "衰退期"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "type": "单选题",
+    "title": "库存周转率（或库存周转次数）是（  ）相除而得到的比率。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "销售成本与库存平均余额"
+      },
+      {
+        "label": "选项B",
+        "content": "销售收入与库存平均余额"
+      },
+      {
+        "label": "选项C",
+        "content": "销售利润与库存平均余额"
+      },
+      {
+        "label": "选项D",
+        "content": "销售数量与库存平均余额"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "type": "单选题",
+    "title": "假设卷烟零售客户安全库存为客户的周平均销量的1.4倍，若上次库存为100条，上次订货为50条，本次库存为30条，那么实际销量为（  ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "120条"
+      },
+      {
+        "label": "选项B",
+        "content": "130条"
+      },
+      {
+        "label": "选项C",
+        "content": "100条"
+      },
+      {
+        "label": "选项D",
+        "content": "150条"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "type": "单选题",
+    "title": "如果烟草商业企业想要在货源投放中体现公平性，应重点（ ）。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "只做到规则公平，不考虑过程和结果公平"
+      },
+      {
+        "label": "选项B",
+        "content": "不进行信息公开，避免内部信息泄露"
+      },
+      {
+        "label": "选项C",
+        "content": "做到规则公平、过程公平、结果公平，进行信息公开，接受监督，且公平不代表平均"
+      },
+      {
+        "label": "选项D",
+        "content": "平均分配货源，认为这就是公平"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "type": "单选题",
+    "title": "下列关于需求满足率指标的表述，错误的是（  ）。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "反映对零售客户需求的满足程度"
+      },
+      {
+        "label": "选项B",
+        "content": "需求满足率越高，货源供应越充足"
+      },
+      {
+        "label": "选项C",
+        "content": "需求满足率越低，零售客户需求越大，货源供应存在缺口"
+      },
+      {
+        "label": "选项D",
+        "content": "能完全反映市场的真实需求"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "type": "单选题",
+    "title": "假设某商业企业某品牌卷烟有重复需求的品牌数量为50个，总品牌数量为100个，按照重需率公式，该品牌卷烟的重需率为（  ）。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "0.2"
+      },
+      {
+        "label": "选项B",
+        "content": "0.3"
+      },
+      {
+        "label": "选项C",
+        "content": "0.4"
+      },
+      {
+        "label": "选项D",
+        "content": "0.5"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "type": "单选题",
+    "title": "卷烟零售客户卷烟销售毛利率＝卷烟零售客户卷烟的毛利总额/(  )。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "卷烟零售客户单个卷烟的销售额"
+      },
+      {
+        "label": "选项B",
+        "content": "卷烟零售客户卷烟的销售总额"
+      },
+      {
+        "label": "选项C",
+        "content": "卷烟零售客户单个卷烟销售成本"
+      },
+      {
+        "label": "选项D",
+        "content": "卷烟零售客户卷烟销售成本总额"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "type": "单选题",
+    "title": "卷烟零售客户的毛利总额＝卷烟零售客户卷烟的销售总额-()。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "卷烟零售客户单个卷烟的销售额"
+      },
+      {
+        "label": "选项B",
+        "content": "卷烟零售客户卷烟的销售总额"
+      },
+      {
+        "label": "选项C",
+        "content": "卷烟零售客户单个卷烟销售成本"
+      },
+      {
+        "label": "选项D",
+        "content": "卷烟零售客户卷烟的销售成本总额"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "type": "单选题",
+    "title": "动销率=当前销售/（）*100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "当期销售+期末库存"
+      },
+      {
+        "label": "选项B",
+        "content": "期初库存+期末库存"
+      },
+      {
+        "label": "选项C",
+        "content": "上期销售+当期销售 "
+      },
+      {
+        "label": "选项D",
+        "content": "上期销售+期初库存"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "type": "单选题",
+    "title": "投诉率的计算公式是（）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "投诉的零售客户数/零售客户总数*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "零售客户总数/投诉的零售客户数*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "投诉的零售客户数/零售客户投诉次数*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "零售客户投诉总次数/投诉的零售客户数*100%"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "type": "单选题",
+    "title": "重复投诉指因未在规定时限内对客户投诉进行答复或因其他原因造成客户不满意，从而使客户对已受理或已答复的投诉进行再投诉。重复投诉率的计算公式是（C）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "重复投诉次数总和/零售客户总数*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "零售客户总数/投诉次数总和*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "重复投诉次数总和/投诉次数总和*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "零售客户投诉总次数/投诉的零售客户数*100%"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "type": "单选题",
+    "title": "订足面的计算公式是（）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "某品牌规格当周订足率为100%的客户数 /该品牌规格投放的客户数*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "某品牌规格当周某客户订货数量 /某品牌规格该客户的投放限量*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "某品牌规格当周订足率为100%的客户数/总客户数*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "某品牌规格当周订足率为100%的客户数/订货客户数*100%"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "type": "单选题",
+    "title": "需求满足率计算公式是（）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "零售客户需求量/零售客户订购量*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "零售客户实际订购量/零售客户提报需求量*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "零售客户订购量/投放量*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "以上均错误"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "type": "单选题",
+    "title": "订足率计算公式是（）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "某品牌规格当周订足率为100%的客户数/该品牌规格投放的客户数*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "客户可订购最大数量/实际订购数量*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "某品牌规格当周某客户订货数量 /某品牌规格该客户的投放限量*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "以上均错误"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "type": "单选题",
+    "title": "甲市烟草公司为甄别本地区不同卷烟零售客户的价值，根据客户数据库里已有的信息和自身管理的需要，为达到“客户经理有效经营指导”按市场类型、商圈类型、零售业态、经营规模开展客户需求调查，并根据调查结果基于价值客户的服务策略进行客户分类，并从客户需求层次进行了分析和运用。相关内容如下：①零售客户经营中涉及卷烟安全主要包括：一是卷烟商品保管；二是防范卷烟偷盗与调包；三是资金安全；②零售客户经营卷烟的本质要求是为了赚钱，获取商业利润；③零售客户希望了解更多的信息，参与烟草公司的活动获取经营决策支持等服务；④零售客户希望在政策、货源、服 务、信息等方面得到与其他同类零售客户一视同仁的对待；⑤零售客户的卷烟销售相对稳定、管理水平较高时，零售客户对货源的需求较突出。资料中①②③④⑤分别属于哪种需求类别？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "案例分析",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "安全需求、盈利需求、服务需求、公平需求、管理需求"
+      },
+      {
+        "label": "选项B",
+        "content": "安全需求、盈利需求、服务需求、公平需求、成长需求"
+      },
+      {
+        "label": "选项C",
+        "content": "安全需求、盈利需求、环境需求、公平需求、成长需求"
+      },
+      {
+        "label": "选项D",
+        "content": "环境需求、盈利需求、服务需求、公平需求、成长需求"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "type": "多选题",
+    "title": "卷烟营销费用主要包括什么？",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "国内市场营销费"
+      },
+      {
+        "label": "选项B",
+        "content": "零售终端建设费"
+      },
+      {
+        "label": "选项C",
+        "content": "文明吸烟环境建设费"
+      },
+      {
+        "label": "选项D",
+        "content": "卷烟促销费"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "type": "多选题",
+    "title": "按照时间层次，市场预测可以分为哪几种类型 ？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "短期预测"
+      },
+      {
+        "label": "选项B",
+        "content": "近期预测"
+      },
+      {
+        "label": "选项C",
+        "content": "中期预测"
+      },
+      {
+        "label": "选项D",
+        "content": "长期预测"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "type": "多选题",
+    "title": "宏观营销环境包括（）、政治法律和社会文化等因素。",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人口"
+      },
+      {
+        "label": "选项B",
+        "content": "经济"
+      },
+      {
+        "label": "选项C",
+        "content": "自然"
+      },
+      {
+        "label": "选项D",
+        "content": "技术"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "type": "多选题",
+    "title": "烟草行业市场化取向改革客户评价分档可以根据需要进行设置，但必须要有（）",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "销量   "
+      },
+      {
+        "label": "选项B",
+        "content": "销售额  "
+      },
+      {
+        "label": "选项C",
+        "content": "省产烟购进量  "
+      },
+      {
+        "label": "选项D",
+        "content": "新品烟购进量"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "type": "多选题",
+    "title": "根据卷烟长度、圆周不同，可将卷烟分为（）",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "常规"
+      },
+      {
+        "label": "选项B",
+        "content": "中支"
+      },
+      {
+        "label": "选项C",
+        "content": "短支"
+      },
+      {
+        "label": "选项D",
+        "content": "细支"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "type": "多选题",
+    "title": "卷烟库存分为（）",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "工业库存"
+      },
+      {
+        "label": "选项B",
+        "content": "商业库存"
+      },
+      {
+        "label": "选项C",
+        "content": "社会库存"
+      },
+      {
+        "label": "选项D",
+        "content": "客户库存"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "type": "多选题",
+    "title": "常用的卷烟陈列方法包括（）",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "价格分类法"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌系列法"
+      },
+      {
+        "label": "选项C",
+        "content": "烟支分类法"
+      },
+      {
+        "label": "选项D",
+        "content": "重点突出法"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "type": "多选题",
+    "title": "在指导零售客户经营过程中，（）要及时发布或告知",
+    "answer": "ABD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "货源投放规则、货源供应策略"
+      },
+      {
+        "label": "选项B",
+        "content": "信用等级的评价规则和评价结果"
+      },
+      {
+        "label": "选项C",
+        "content": "周边零售客户的购进量、购进金额"
+      },
+      {
+        "label": "选项D",
+        "content": "访销周期、访销频次"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "type": "多选题",
+    "title": "一支雪茄从内至外由三个部分组成，分别是（）（）（）。",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "茄芯"
+      },
+      {
+        "label": "选项B",
+        "content": "茄套"
+      },
+      {
+        "label": "选项C",
+        "content": "茄衣"
+      },
+      {
+        "label": "选项D",
+        "content": "茄帽"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "type": "多选题",
+    "title": "传统雪茄分为（）和（）。",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "手工雪茄"
+      },
+      {
+        "label": "选项B",
+        "content": "半手工雪茄"
+      },
+      {
+        "label": "选项C",
+        "content": "机制雪茄"
+      },
+      {
+        "label": "选项D",
+        "content": "半机制雪茄"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "type": "多选题",
+    "title": "卷烟营销业务四流是指（）（）（）（）？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "商流"
+      },
+      {
+        "label": "选项B",
+        "content": "物流"
+      },
+      {
+        "label": "选项C",
+        "content": "信息流"
+      },
+      {
+        "label": "选项D",
+        "content": "资金流"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "type": "多选题",
+    "title": "营销人员指导零售客户新品卷烟的销售技巧有（）。",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "向卷烟零售客户宣传品牌卖点"
+      },
+      {
+        "label": "选项B",
+        "content": "陈列在显著位置"
+      },
+      {
+        "label": "选项C",
+        "content": "指导其重点向年轻人、富有尝鲜心理的消费者推荐"
+      },
+      {
+        "label": "选项D",
+        "content": "合理控制库存"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "type": "多选题",
+    "title": "存销比可以从哪些不同层次分析（ ）",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "总存销比"
+      },
+      {
+        "label": "选项B",
+        "content": "品类存销比"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌 (规格) 存销比"
+      },
+      {
+        "label": "选项D",
+        "content": "季度存销比"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "type": "多选题",
+    "title": "关于新品牌(规格)的说法，正确的是（  ）",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "是指新引入和引入周期较短的卷烟"
+      },
+      {
+        "label": "选项B",
+        "content": "在销不超过24个月的一二类卷烟属于新品牌(规格)"
+      },
+      {
+        "label": "选项C",
+        "content": "在销不超过36个月的三类及以下卷烟属于新品牌(规格)"
+      },
+      {
+        "label": "选项D",
+        "content": "引入时间超过24个月的卷烟都不属于新品牌(规格)"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "type": "多选题",
+    "title": "货源投放要保障零售客户自主选择权，必须做到（ ）",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "所有品牌 (规格) 零售客户自主选择"
+      },
+      {
+        "label": "选项B",
+        "content": "不得设定订货总量下限"
+      },
+      {
+        "label": "选项C",
+        "content": "不得设定品牌 (规格) 订货量下限"
+      },
+      {
+        "label": "选项D",
+        "content": "让零售客户随意选择，无任何限制"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "type": "多选题",
+    "title": "关于按需投放，以下说法正确的是（ ）",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "在符合规范的前提下，按照零售客户实际需求投放"
+      },
+      {
+        "label": "选项B",
+        "content": "意味着零售客户 “要多少，给多少”"
+      },
+      {
+        "label": "选项C",
+        "content": "合理设置单次品牌 (规格) 投放量上限"
+      },
+      {
+        "label": "选项D",
+        "content": "避免因投放量过大造成社会库存积压或真烟非法流通"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "type": "多选题",
+    "title": "波士顿矩阵评价品牌组合时的两个评价维度是（ ）",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "三级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "品牌的市场占有率"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌的销售增长率"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌的知名度"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌的美誉度"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "type": "多选题",
+    "title": "下列()不是单品重需率的公式。",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "某单品的实际供应量/某单品的需求总量×100%"
+      },
+      {
+        "label": "选项B",
+        "content": "某单品本周有需求记录的客户数/前三周有该单品订单记录的客户数×100%"
+      },
+      {
+        "label": "选项C",
+        "content": "某客户订货数量/该客户的投放限额×100%"
+      },
+      {
+        "label": "选项D",
+        "content": "销售某单品的客户数/总客户数×100%"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "type": "多选题",
+    "title": "\"某烟（印象·山水）\"是某中烟公司推出的高端新品卷烟，主打“自然本香”概念，目标消费群体为30-50岁的高收入人群。上市初期通过电视广告、高端商圈体验活动迅速打开知名度，但半年后市场调研数据显示：品牌知名度达65%，美誉度仅40%，忠诚度不足20%。消费者反馈中，部分用户认为其口感与宣传的“清新醇和”不符，包装设计缺乏辨识度；同时，竞品“黄鹤楼（天赐淡雅香）”凭借精准的“淡雅香品类代表”定位，市场份额持续攀升。市场表现上，“云烟（印象·山水）”上柜率为58%，存销比1.2，动销率低于同类竞品10%。根据品牌消费者影响分析三角模型，判断“云烟（印象·山水）”当前处于品牌生命周期的哪个阶段？该生命周期阶段企业应该加大宣传什么？",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "案例分析",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "导入期"
+      },
+      {
+        "label": "选项B",
+        "content": "成长期"
+      },
+      {
+        "label": "选项C",
+        "content": "知名度"
+      },
+      {
+        "label": "选项D",
+        "content": "美誉度"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "type": "多选题",
+    "title": "某市“佳乐便利店”位于新兴商业区，主营卷烟、饮料、零食等快消品。近期店主王先生发现卷烟销量连续3个月下滑，毛利率从25%降至18%，库存周转率从每月1.2次降至0.8次。通过零售客户店铺管理系统数据发现：\n卷烟品类中，高价烟销量占比从30%跌至15%，中低价烟占比上升，但整体销售额下降；\n店内卷烟陈列杂乱，新品“南京（雨花石）”上柜后未重点展示，动销率仅为40%；\n周边新开两家连锁便利店，竞争加剧，客流量减少20%；\n商圈内办公楼入驻率提升，但王先生未调整经营策略，未针对白领群体推出促销活动。\n根据零售客户经营原则，指出“佳乐便利店”违背了哪两项原则？",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "案例分析",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "效益原则"
+      },
+      {
+        "label": "选项B",
+        "content": "稳健原则"
+      },
+      {
+        "label": "选项C",
+        "content": "适度原则"
+      },
+      {
+        "label": "选项D",
+        "content": "效率原则"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "type": "多选题",
+    "title": "某市烟草公司为了贯彻乡村振兴战略，更加全面的掌握农村市场消费变化趋势，提出要善用营销人员，充分发挥“市场眼睛”的作用。要求营销人员加强农村客户服务，客观、完整的反馈农村市场信息，着重了解反馈以下信息：①农村年轻人喜欢抽什么烟；②向客户询问重点品牌的走势；③了解是否有断货的品牌；④客户和消费者对A品牌的评价。营销人员在市场走访过程中可以采取什么方法？从而尽可能客观，完整地反馈市场信息。",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "案例分析",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "用眼"
+      },
+      {
+        "label": "选项B",
+        "content": "用口"
+      },
+      {
+        "label": "选项C",
+        "content": "用心"
+      },
+      {
+        "label": "选项D",
+        "content": "用脑"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "type": "多选题",
+    "title": "某市烟草公司在销的A品牌卷烟已经被大多数潜在购买者所接受，销量增长速度逐渐放缓。营销中心小李针对该品牌制定了以下采购目标：\n①零售客户对A品牌的产品质量投诉率要低于2%；\n②周断货率为0；\n③产品质量投诉的厂家反馈时间要提高10%。\n小李制定的采购目标①②③分别属于什么范围的采购目标？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "案例分析",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "质量"
+      },
+      {
+        "label": "选项B",
+        "content": "成本"
+      },
+      {
+        "label": "选项C",
+        "content": "交付"
+      },
+      {
+        "label": "选项D",
+        "content": "服务"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "type": "判断题",
+    "title": "零售客户分档调整工作总体目标是增强客户分档工作的规范性和适应性，提升卷烟货源供给质量和零售客户掌控能力，加快推动形成橄榄型的客户结构。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "type": "判断题",
+    "title": "零售终端培训费可以用于购买、发放各种物资。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "type": "判断题",
+    "title": "订足面=某品牌规格当周订足率为100%的客户数 /该品牌规格投放的客户数 × 100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "type": "判断题",
+    "title": "订足率=某品牌规格当周某客户订货数量 /某品牌规格该客户的投放限量 × 100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "type": "判断题",
+    "title": "上柜率=订购某品牌（规格）的零售客户数/全部零售客户数 × 100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "type": "判断题",
+    "title": "需求满足率=零售客户实际订购量/零售客户提报需求量 × 100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "type": "判断题",
+    "title": "重需率=某品牌（规格）本周有需求记录的零售客户数/前三周有该品牌（规格）订单记录的零售客户数 × 100%",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "type": "判断题",
+    "title": "调拨价是指卷烟从工业公司调拨到商业公司的价格。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "type": "判断题",
+    "title": "营销人员日常服务过程中应引导有能力、有意愿、有需求的卷烟零售客户对卷烟陈列设施自主进行改造。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "type": "判断题",
+    "title": "在对零售客户进行入网培训时，可以仅向其告知对应的营销人员等服务人员联系方式，以及服务咨询热线，不必要告知打假举报热线和烟草经营相关资讯平台。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "type": "判断题",
+    "title": "营销人员日常服务过程中应要求卷烟零售客户按零售指导价对卷烟进行明码标价、货签对应，保持价格标签清晰、干净。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "type": "判断题",
+    "title": "营销人员不得干预卷烟零售客户自主选择货源，但遇到客户寻求帮助，营销人员可以为卷烟零售客户代订卷烟。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "type": "判断题",
+    "title": "营销人员应告知卷烟零售客户网上订货操作规范，提醒卷烟零售客户不得与其他客户相同IP/ID订货、不得与其他客户使用同一设备订货。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "type": "判断题",
+    "title": "安全库存的计算方法为：安全库存=[（上次库存+上次订货）-本次库存]×2.5",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "type": "判断题",
+    "title": "宣传促销中可以给与营销人员一定的自主选择权，根据不同的片区情况和客户类型，选取不同的宣传促销方式，引导和指导客户灵活运用、综合运用。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "type": "判断题",
+    "title": "营销策划按主体、客体、时间、内容划分，彼此是孤立的，不存在相互联系。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "type": "判断题",
+    "title": "树立榜样是典型的行为激励法，能够激发人们的情感，起到强烈的示范作用。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "type": "判断题",
+    "title": "市场调研是一种科学地、系统地、客观地收集、整理、分析市场营销数据与信息，用以解决企业某一营销问题的工作过程。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "type": "判断题",
+    "title": "任何企业都会面临属于自己的特殊环境，这一特殊的环境，既有威胁也包含着市场机会，不是所有的环境威胁都一样大，但所有的市场机会都有同样的吸引力",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "type": "判断题",
+    "title": "零售客户信用等级共有5个等级。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "卷烟经营",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "type": "判断题",
+    "title": "市场信息采集的目标是获取宏观市场、微观消费、卷烟品牌和零售终端等方面的信息，为下一步市场分析提供依据。（ ）",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "五级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "type": "判断题",
+    "title": "市场分析不需要运用统计学原理。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "type": "判断题",
+    "title": "市场分析不能只罗列数据，要揭示数据背后的真相。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "type": "判断题",
+    "title": "社会库存总量指标可用于判断社会库存总水平是否处于合理范围。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "type": "判断题",
+    "title": "存销比稳定指数越小，存销比在不同时期、不同类型零售客户中的差异越小，投放越均衡。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "type": "判断题",
+    "title": "市场价格不是考察卷烟品牌市场状态的重要指标。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "type": "判断题",
+    "title": "品牌上柜率越高，越能让更多消费者接触到品牌，购买可能性越大。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "四级营销技能",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "type": "单选题",
+    "title": "河南烟草的高质量发展谁来引领的答案是什么？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "党建引领"
+      },
+      {
+        "label": "选项B",
+        "content": "业务引领"
+      },
+      {
+        "label": "选项C",
+        "content": "人才强企"
+      },
+      {
+        "label": "选项D",
+        "content": "数字赋能"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "type": "单选题",
+    "title": "抓好党建是最大的政治任务，也是最大的发展要求，抓党建重点是做好()的工作?",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人员思想"
+      },
+      {
+        "label": "选项B",
+        "content": "两级班子"
+      },
+      {
+        "label": "选项C",
+        "content": "素能提升"
+      },
+      {
+        "label": "选项D",
+        "content": "党员培养"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "type": "单选题",
+    "title": "组织素能引领的目标是提高领导班子和领导干部的（）？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "业务技能"
+      },
+      {
+        "label": "选项B",
+        "content": "思想意识"
+      },
+      {
+        "label": "选项C",
+        "content": "素质能力"
+      },
+      {
+        "label": "选项D",
+        "content": "数字素能"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "type": "单选题",
+    "title": "作风廉洁引领是为了确保“两级班子”的（）持续向上想好。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "思想状态"
+      },
+      {
+        "label": "选项B",
+        "content": "自身素养"
+      },
+      {
+        "label": "选项C",
+        "content": "技能本领"
+      },
+      {
+        "label": "选项D",
+        "content": "政治生态"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "type": "单选题",
+    "title": "行业发展的生命线是什么？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "安全"
+      },
+      {
+        "label": "选项B",
+        "content": "规范"
+      },
+      {
+        "label": "选项C",
+        "content": "税收"
+      },
+      {
+        "label": "选项D",
+        "content": "人才"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "type": "单选题",
+    "title": "行业高质量发展的基石是什么？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "安全"
+      },
+      {
+        "label": "选项B",
+        "content": "规范"
+      },
+      {
+        "label": "选项C",
+        "content": "税收"
+      },
+      {
+        "label": "选项D",
+        "content": "人才"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "type": "单选题",
+    "title": "驱动发展的“第一动力”是什么？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "效益"
+      },
+      {
+        "label": "选项B",
+        "content": "创新"
+      },
+      {
+        "label": "选项C",
+        "content": "人才"
+      },
+      {
+        "label": "选项D",
+        "content": "队伍"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "type": "单选题",
+    "title": "对驱动更高质量发展起到引擎作用的是什么？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人才队伍"
+      },
+      {
+        "label": "选项B",
+        "content": "数字赋能"
+      },
+      {
+        "label": "选项C",
+        "content": "改革创新"
+      },
+      {
+        "label": "选项D",
+        "content": "规范制度"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "type": "单选题",
+    "title": "关于营销市场化取向改革，要不断提升市场化意识和手段，在健全全省统一营销制度的基础上，挖掘引导和满足细分市场卷烟消费需求，推进（），把控投放的总量、节奏、结构。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "按价位段自选投放"
+      },
+      {
+        "label": "选项B",
+        "content": "按需投入"
+      },
+      {
+        "label": "选项C",
+        "content": "按档投放"
+      },
+      {
+        "label": "选项D",
+        "content": "标签投放"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "type": "单选题",
+    "title": "“十五五”期间全省系统发展的战略主题是什么？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "推动河南烟草商业高效率发展"
+      },
+      {
+        "label": "选项B",
+        "content": "推动河南烟草商业高质量发展"
+      },
+      {
+        "label": "选项C",
+        "content": "推动河南烟草商业高速率发展"
+      },
+      {
+        "label": "选项D",
+        "content": "推动河南烟草商业高效能发展"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "type": "单选题",
+    "title": "五个战略重点中，“强党建”是做强高质量发展的（）。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "第一引领"
+      },
+      {
+        "label": "选项B",
+        "content": "第一防线"
+      },
+      {
+        "label": "选项C",
+        "content": "第一动力"
+      },
+      {
+        "label": "选项D",
+        "content": "第一追求"
+      },
+      {
+        "label": "选项E",
+        "content": "第一保障"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "type": "单选题",
+    "title": "五个战略重点中，“守底线”是做强高质量发展的（）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "第一引领"
+      },
+      {
+        "label": "选项B",
+        "content": "第一防线"
+      },
+      {
+        "label": "选项C",
+        "content": "第一动力"
+      },
+      {
+        "label": "选项D",
+        "content": "第一追求"
+      },
+      {
+        "label": "选项E",
+        "content": "第一保障"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "type": "单选题",
+    "title": "五个战略重点中，“重创新”是做强高质量发展的（）。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "第一引领"
+      },
+      {
+        "label": "选项B",
+        "content": "第一防线"
+      },
+      {
+        "label": "选项C",
+        "content": "第一动力"
+      },
+      {
+        "label": "选项D",
+        "content": "第一追求"
+      },
+      {
+        "label": "选项E",
+        "content": "第一保障"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "type": "单选题",
+    "title": "五个战略重点中，“提质效”是做强高质量发展的（）。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "第一引领"
+      },
+      {
+        "label": "选项B",
+        "content": "第一防线"
+      },
+      {
+        "label": "选项C",
+        "content": "第一动力"
+      },
+      {
+        "label": "选项D",
+        "content": "第一追求"
+      },
+      {
+        "label": "选项E",
+        "content": "第一保障"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "type": "单选题",
+    "title": "五个战略重点中，“激活力”是做强高质量发展的（）。",
+    "answer": "E",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "第一引领"
+      },
+      {
+        "label": "选项B",
+        "content": "第一防线"
+      },
+      {
+        "label": "选项C",
+        "content": "第一动力"
+      },
+      {
+        "label": "选项D",
+        "content": "第一追求"
+      },
+      {
+        "label": "选项E",
+        "content": "第一保障"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "type": "单选题",
+    "title": "“强党建”是指更加重视把（）选优建强，把整体功能和引领作用发挥好。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "领导班子"
+      },
+      {
+        "label": "选项B",
+        "content": "两级班子"
+      },
+      {
+        "label": "选项C",
+        "content": "三支队伍"
+      },
+      {
+        "label": "选项D",
+        "content": "人员队伍"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "type": "单选题",
+    "title": "“守底线”方面，要在注重事后监管的同时，转向（）用力，建立“职责明确、协调畅通、全面覆盖、防治一体”的综合监督合规管理体系，把风险控制在事前，把问题的产生减少到最大限度。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "事前事中"
+      },
+      {
+        "label": "选项B",
+        "content": "事前审批"
+      },
+      {
+        "label": "选项C",
+        "content": "事中监管"
+      },
+      {
+        "label": "选项D",
+        "content": "事后督察"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "type": "单选题",
+    "title": "增效就是要进一步促进（）优化配置。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "收入与支出"
+      },
+      {
+        "label": "选项B",
+        "content": "成本与收益"
+      },
+      {
+        "label": "选项C",
+        "content": "要素与资源"
+      },
+      {
+        "label": "选项D",
+        "content": "人力与效率"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "type": "单选题",
+    "title": "“守底线”战略重点中，数字化监督的依托是（  ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人工排查"
+      },
+      {
+        "label": "选项B",
+        "content": "业务数据“双中台”"
+      },
+      {
+        "label": "选项C",
+        "content": "纸质台账"
+      },
+      {
+        "label": "选项D",
+        "content": "定期会议"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "type": "单选题",
+    "title": "“守底线”战略重点中，体系化监督目标要锚定的“四个全”不包括（  ）",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "全领域监督融合  "
+      },
+      {
+        "label": "选项B",
+        "content": "全要素监督集成"
+      },
+      {
+        "label": "选项C",
+        "content": "全人员监督覆盖 "
+      },
+      {
+        "label": "选项D",
+        "content": "全层级监督贯通"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "type": "单选题",
+    "title": "“守底线”战略重点中，构建综合监督合规管理体系的核心目标是（  ）",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "仅事后追责问责 "
+      },
+      {
+        "label": "选项B",
+        "content": "把风险控制在事前"
+      },
+      {
+        "label": "选项C",
+        "content": "减少监督环节 "
+      },
+      {
+        "label": "选项D",
+        "content": "简化审批流程"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "type": "多选题",
+    "title": "“五个视角”的具体内容是什么？",
+    "answer": "ABCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "河南烟草的高质量发展谁来引领"
+      },
+      {
+        "label": "选项B",
+        "content": "河南烟草商业的高质量发展如何防控风险、守住底线，确保发展安全"
+      },
+      {
+        "label": "选项C",
+        "content": "河南烟草高质量发展的动力动能何在"
+      },
+      {
+        "label": "选项D",
+        "content": "如何不断提高河南烟草高质量发展的质效"
+      },
+      {
+        "label": "选项E",
+        "content": "河南烟草高质量发展的队伍如何来保障"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "type": "多选题",
+    "title": "“两级班子”对于省局（公司）主要负责人而言是指什么？",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "省局（公司）领导班子"
+      },
+      {
+        "label": "选项B",
+        "content": "机关处级班子"
+      },
+      {
+        "label": "选项C",
+        "content": "直属单位领导班子"
+      },
+      {
+        "label": "选项D",
+        "content": "科级干部班子"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "type": "多选题",
+    "title": "“两级班子”对于各部门、单位主要负责人而言是指什么？",
+    "answer": "BC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "省局（公司）领导班子"
+      },
+      {
+        "label": "选项B",
+        "content": "本级领导班子"
+      },
+      {
+        "label": "选项C",
+        "content": "科级干部班子"
+      },
+      {
+        "label": "选项D",
+        "content": "股级干部"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "type": "多选题",
+    "title": "“两级班子”对于县级局等单位主要负责人而言是指什么？",
+    "answer": "BD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "省局（公司）领导班子"
+      },
+      {
+        "label": "选项B",
+        "content": "本级领导班子"
+      },
+      {
+        "label": "选项C",
+        "content": "科级干部班子"
+      },
+      {
+        "label": "选项D",
+        "content": "股级干部"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "type": "多选题",
+    "title": "“强党建”政治思想引领的载体包含哪些？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "党组理论中心组理论学习"
+      },
+      {
+        "label": "选项B",
+        "content": "“第一议题”学习"
+      },
+      {
+        "label": "选项C",
+        "content": "主题党日"
+      },
+      {
+        "label": "选项D",
+        "content": "党支部组织生活"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "type": "多选题",
+    "title": "关于作风廉洁引领中，确保“两级班子”作风持续改进、廉洁不出问题的方式途径是？",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "党内集中学习"
+      },
+      {
+        "label": "选项B",
+        "content": "自主培训学习"
+      },
+      {
+        "label": "选项C",
+        "content": "正风肃纪反腐"
+      },
+      {
+        "label": "选项D",
+        "content": "提升自身修养"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "type": "多选题",
+    "title": "当前，行业发展面临的形势复杂多变，风险和隐患无处不在、无时不在，首要的是要高度重视经常性开展什么教育？",
+    "answer": "CD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "人员教育"
+      },
+      {
+        "label": "选项B",
+        "content": "专业教育"
+      },
+      {
+        "label": "选项C",
+        "content": "规范教育"
+      },
+      {
+        "label": "选项D",
+        "content": "警示教育"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "type": "多选题",
+    "title": "卷烟经营领域，要高度重视合规风险，坚决杜绝零售户身边的()和()的问题，坚决杜绝出现违反广告法、反不正当竞争法、反垄断法等问题。",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "不正之风"
+      },
+      {
+        "label": "选项B",
+        "content": "侵害零售户利益"
+      },
+      {
+        "label": "选项C",
+        "content": "不规范服务"
+      },
+      {
+        "label": "选项D",
+        "content": "侵害行业利益"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "type": "多选题",
+    "title": "在安全风险方面，要注重防范的风险包含哪些？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "网络安全风险"
+      },
+      {
+        "label": "选项B",
+        "content": "信息泄露风险"
+      },
+      {
+        "label": "选项C",
+        "content": "信访舆论风险"
+      },
+      {
+        "label": "选项D",
+        "content": "过激控烟风险"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "type": "多选题",
+    "title": "高质量发展的应有之义是提高发展的（）、（）、（）。",
+    "answer": "BCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "规模"
+      },
+      {
+        "label": "选项B",
+        "content": "质量"
+      },
+      {
+        "label": "选项C",
+        "content": "效率"
+      },
+      {
+        "label": "选项D",
+        "content": "效益"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "type": "多选题",
+    "title": "“三支队伍”建设是指哪三支队伍？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "管理"
+      },
+      {
+        "label": "选项B",
+        "content": "培训"
+      },
+      {
+        "label": "选项C",
+        "content": "技术"
+      },
+      {
+        "label": "选项D",
+        "content": "技能"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "type": "多选题",
+    "title": "经济运行分析的思路与重点应转换到哪些方面上？",
+    "answer": "BC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "销量结构"
+      },
+      {
+        "label": "选项B",
+        "content": "增收节支"
+      },
+      {
+        "label": "选项C",
+        "content": "提质增效"
+      },
+      {
+        "label": "选项D",
+        "content": "税利创收"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "type": "多选题",
+    "title": " “十五五”时期，全省系统发展战略主题本质上是要推动发展从（）转向（）。",
+    "answer": "AD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "数量型"
+      },
+      {
+        "label": "选项B",
+        "content": "基础型"
+      },
+      {
+        "label": "选项C",
+        "content": "效率型"
+      },
+      {
+        "label": "选项D",
+        "content": "质量型"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "type": "多选题",
+    "title": "河南烟草商业“十五五”“15字”战略重点包含哪些内容？",
+    "answer": "ABCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "强党建"
+      },
+      {
+        "label": "选项B",
+        "content": "守底线"
+      },
+      {
+        "label": "选项C",
+        "content": "重创新"
+      },
+      {
+        "label": "选项D",
+        "content": "提质效"
+      },
+      {
+        "label": "选项E",
+        "content": "激活力"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "type": "多选题",
+    "title": "“强党建”要求“两级班子”要强化（）、思想引领、组织引领、素能引领、作风引领、（）。",
+    "answer": "BC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "工作引领"
+      },
+      {
+        "label": "选项B",
+        "content": "政治引领"
+      },
+      {
+        "label": "选项C",
+        "content": "廉洁引领"
+      },
+      {
+        "label": "选项D",
+        "content": "队伍引领"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "type": "多选题",
+    "title": "“守底线”战略重点中，梳理的八大类重点风险包括（）",
+    "answer": "BCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "环境类、舆情类"
+      },
+      {
+        "label": "选项B",
+        "content": "政治类、用人类"
+      },
+      {
+        "label": "选项C",
+        "content": "资产类、法治类"
+      },
+      {
+        "label": "选项D",
+        "content": "经管类、安全类"
+      },
+      {
+        "label": "选项E",
+        "content": "公众类、廉洁类"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "type": "多选题",
+    "title": "“守底线”战略重点需通过哪些途径解决八大类重点风险？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "体系化监督"
+      },
+      {
+        "label": "选项B",
+        "content": "标准化监督"
+      },
+      {
+        "label": "选项C",
+        "content": "数字化监督"
+      },
+      {
+        "label": "选项D",
+        "content": "合规文化"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "type": "多选题",
+    "title": "“守底线”战略重点中，体系化监督需压实的“三个责”包括（  ）？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "业务部门条线监督责任"
+      },
+      {
+        "label": "选项B",
+        "content": "基层员工监督责任 "
+      },
+      {
+        "label": "选项C",
+        "content": "专业部门专门监督责任  "
+      },
+      {
+        "label": "选项D",
+        "content": "纪检监察部门再监督责任"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "type": "多选题",
+    "title": "以下哪项属于“重创新”需要关注的重点？",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "数字化转型创新"
+      },
+      {
+        "label": "选项B",
+        "content": "营销市场化取向改革"
+      },
+      {
+        "label": "选项C",
+        "content": "营销模式创新"
+      },
+      {
+        "label": "选项D",
+        "content": "服务模式创新"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "type": "多选题",
+    "title": "“提质效”提升的质量、效率、效益具体是指什么？",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "工作质量"
+      },
+      {
+        "label": "选项B",
+        "content": "劳动生产率"
+      },
+      {
+        "label": "选项C",
+        "content": "增收节支、提质增效"
+      },
+      {
+        "label": "选项D",
+        "content": "管理效能"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "type": "多选题",
+    "title": "“提质效”战略重点中，节支需要树牢的理念是什么？",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "一切成本皆可降"
+      },
+      {
+        "label": "选项B",
+        "content": "节约人力成本"
+      },
+      {
+        "label": "选项C",
+        "content": "支出必问效"
+      },
+      {
+        "label": "选项D",
+        "content": "减少费用支出"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "type": "多选题",
+    "title": "“提质效”战略重点中，提质需要做好以下哪几个方面？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "树牢质量意识"
+      },
+      {
+        "label": "选项B",
+        "content": "强化质量管控"
+      },
+      {
+        "label": "选项C",
+        "content": "推动质量优化"
+      },
+      {
+        "label": "选项D",
+        "content": "严格质量追溯"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "type": "多选题",
+    "title": "“提质效”战略重点中，“增效”的核心举措包括（）？",
+    "answer": "BCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "扩大投入规模"
+      },
+      {
+        "label": "选项B",
+        "content": "开展成本费用对标"
+      },
+      {
+        "label": "选项C",
+        "content": "加大成本费用考核力度"
+      },
+      {
+        "label": "选项D",
+        "content": "剔除低效无效支出"
+      },
+      {
+        "label": "选项E",
+        "content": "严肃追责重大损失浪费行为"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "type": "多选题",
+    "title": "“激活力”需要做好以下哪些方面？",
+    "answer": "ABCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "优化“岗”"
+      },
+      {
+        "label": "选项B",
+        "content": "育好“人”"
+      },
+      {
+        "label": "选项C",
+        "content": "提高“能”"
+      },
+      {
+        "label": "选项D",
+        "content": "突出“绩”"
+      },
+      {
+        "label": "选项E",
+        "content": "用好“薪”"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "type": "多选题",
+    "title": "董局长在2025年河南烟草商业半年工作会上的讲话中指出，通过哪些渠道可反映生产经营管理中的问题（  ）",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "巡察、审计"
+      },
+      {
+        "label": "选项B",
+        "content": "专项检查、信访举报 "
+      },
+      {
+        "label": "选项C",
+        "content": "“12313”热线反馈 "
+      },
+      {
+        "label": "选项D",
+        "content": "行政复议、诉讼"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "type": "多选题",
+    "title": "董局长在2025年河南烟草商业半年工作会上的讲话中阐述的党建引领的三大引领作用包括（  ）",
+    "answer": "ABD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "战略主题战略重点工作导向",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "政治思想引领"
+      },
+      {
+        "label": "选项B",
+        "content": "组织素能引领"
+      },
+      {
+        "label": "选项C",
+        "content": "经济效益引领"
+      },
+      {
+        "label": "选项D",
+        "content": "作风廉洁引领"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "type": "单选题",
+    "title": "我国卷烟依价类分为（）个类别？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "4"
+      },
+      {
+        "label": "选项B",
+        "content": "5"
+      },
+      {
+        "label": "选项C",
+        "content": "8"
+      },
+      {
+        "label": "选项D",
+        "content": "12"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "type": "单选题",
+    "title": "按照卷烟计量单位1箱=（）条？",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "50"
+      },
+      {
+        "label": "选项B",
+        "content": "100"
+      },
+      {
+        "label": "选项C",
+        "content": "200"
+      },
+      {
+        "label": "选项D",
+        "content": "250"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "type": "单选题",
+    "title": "商业企业客户分档数量一般为多少？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "20"
+      },
+      {
+        "label": "选项B",
+        "content": "30"
+      },
+      {
+        "label": "选项C",
+        "content": "49"
+      },
+      {
+        "label": "选项D",
+        "content": "50"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "type": "单选题",
+    "title": "全国卷烟零售客户信用等级共分为（）个等级？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "5"
+      },
+      {
+        "label": "选项B",
+        "content": "6"
+      },
+      {
+        "label": "选项C",
+        "content": "7"
+      },
+      {
+        "label": "选项D",
+        "content": "8"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "type": "单选题",
+    "title": "规范卷烟营销客户服务行为，应充分尊重卷烟零售客户意愿，从（）出发，杜绝违背客户意愿、忽视客户诉求等服务行为。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "经营计划"
+      },
+      {
+        "label": "选项B",
+        "content": "客户需求"
+      },
+      {
+        "label": "选项C",
+        "content": "工业企业"
+      },
+      {
+        "label": "选项D",
+        "content": "销售目标"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "type": "单选题",
+    "title": "营销人员应提醒卷烟零售客户同一张银行卡不得为()户及以上卷烟零售客户支付卷烟货款，包括在线批扣、微信易付、网银支付等。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2"
+      },
+      {
+        "label": "选项B",
+        "content": "3"
+      },
+      {
+        "label": "选项C",
+        "content": "4"
+      },
+      {
+        "label": "选项D",
+        "content": "5"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "type": "单选题",
+    "title": "卷烟零售客户安全库存标准参考值为周平均销量得（）倍。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "1"
+      },
+      {
+        "label": "选项B",
+        "content": "1.5"
+      },
+      {
+        "label": "选项C",
+        "content": "2"
+      },
+      {
+        "label": "选项D",
+        "content": "2.5"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "type": "单选题",
+    "title": "规范卷烟营销客户服务行为时，应在以下哪方面表现出恰当、礼貌？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "仪容仪表、服务用语"
+      },
+      {
+        "label": "选项B",
+        "content": "货源分配策略服务"
+      },
+      {
+        "label": "选项C",
+        "content": "卷烟价格制定服务"
+      },
+      {
+        "label": "选项D",
+        "content": "客户档位调整服务"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "type": "单选题",
+    "title": "新入网卷烟零售客户培训内容不包括以下哪项？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "规范经营知识"
+      },
+      {
+        "label": "选项B",
+        "content": "证件办理流程"
+      },
+      {
+        "label": "选项C",
+        "content": "经营基础知识"
+      },
+      {
+        "label": "选项D",
+        "content": "信用体系建设"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "type": "单选题",
+    "title": "卷烟订购过程中，营销人员正确的做法是？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "干预客户自主选择货源"
+      },
+      {
+        "label": "选项B",
+        "content": "为客户代订卷烟"
+      },
+      {
+        "label": "选项C",
+        "content": "提醒保管订货平台账号密码"
+      },
+      {
+        "label": "选项D",
+        "content": "使用同一设备为多客户订货"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "type": "单选题",
+    "title": "客户拜访频次确定依据不包括？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户信用等级"
+      },
+      {
+        "label": "选项B",
+        "content": "营销人员个人喜好"
+      },
+      {
+        "label": "选项C",
+        "content": "终端类型分布"
+      },
+      {
+        "label": "选项D",
+        "content": "地理区域特征"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "type": "单选题",
+    "title": "营销信息应通过哪个官方渠道发布？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "社交媒体非官方账号"
+      },
+      {
+        "label": "选项B",
+        "content": "网上订货平台"
+      },
+      {
+        "label": "选项C",
+        "content": "个人博客"
+      },
+      {
+        "label": "选项D",
+        "content": "私人通讯软件"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "type": "单选题",
+    "title": "现代终端不包括以下哪类？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "直营终端"
+      },
+      {
+        "label": "选项B",
+        "content": "合作终端"
+      },
+      {
+        "label": "选项C",
+        "content": "普通终端"
+      },
+      {
+        "label": "选项D",
+        "content": "加盟终端"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "type": "单选题",
+    "title": "品牌推介活动遵循的原则不包括？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "重点品牌优先"
+      },
+      {
+        "label": "选项B",
+        "content": "规范运作实施"
+      },
+      {
+        "label": "选项C",
+        "content": "单方独立决策"
+      },
+      {
+        "label": "选项D",
+        "content": "多方协同互动"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "type": "单选题",
+    "title": "经营指导中陈列指导不包括？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "价格分类法"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌系列法"
+      },
+      {
+        "label": "选项C",
+        "content": "随意陈列法"
+      },
+      {
+        "label": "选项D",
+        "content": "烟支分类法"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "type": "单选题",
+    "title": "客户信用积分体系由谁搭建？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "营销部门独立"
+      },
+      {
+        "label": "选项B",
+        "content": "专卖部门协同"
+      },
+      {
+        "label": "选项C",
+        "content": "第三方机构"
+      },
+      {
+        "label": "选项D",
+        "content": "客户自主申报"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "type": "单选题",
+    "title": "客户拜访流程不包括哪步？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "信息收集分析"
+      },
+      {
+        "label": "选项B",
+        "content": "强制升级终端"
+      },
+      {
+        "label": "选项C",
+        "content": "效果评估改进"
+      },
+      {
+        "label": "选项D",
+        "content": "制定拜访计划"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "type": "单选题",
+    "title": "在销品牌维护不包括？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "日常维护服务"
+      },
+      {
+        "label": "选项B",
+        "content": "定期分析评估与持续维护"
+      },
+      {
+        "label": "选项C",
+        "content": "强制替换品牌"
+      },
+      {
+        "label": "选项D",
+        "content": "退出品牌下柜"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "type": "单选题",
+    "title": "客户入网物料发放不包括？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "政策宣传资料"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌目录手册"
+      },
+      {
+        "label": "选项C",
+        "content": "促销礼品套装"
+      },
+      {
+        "label": "选项D",
+        "content": "服务监督卡"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "type": "单选题",
+    "title": "营销人员岗位协作不包括？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "法制宣传配合"
+      },
+      {
+        "label": "选项B",
+        "content": "市场管理协助"
+      },
+      {
+        "label": "选项C",
+        "content": "客户私人事务"
+      },
+      {
+        "label": "选项D",
+        "content": "信用体系共建"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "type": "单选题",
+    "title": "终端品牌推介需遵守什么？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户个人偏好"
+      },
+      {
+        "label": "选项B",
+        "content": "个人消费习惯"
+      },
+      {
+        "label": "选项C",
+        "content": "法律法规要求"
+      },
+      {
+        "label": "选项D",
+        "content": "营销人员主观判断"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "type": "单选题",
+    "title": "客户诚信小组活动旨在构建什么环境？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "垄断性市场"
+      },
+      {
+        "label": "选项B",
+        "content": "公平诚信守法市场"
+      },
+      {
+        "label": "选项C",
+        "content": "竞争性市场"
+      },
+      {
+        "label": "选项D",
+        "content": "封闭性市场"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "type": "单选题",
+    "title": "直营终端运营主体是？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "零售客户自主"
+      },
+      {
+        "label": "选项B",
+        "content": "烟草商业企业"
+      },
+      {
+        "label": "选项C",
+        "content": "第三方运营商"
+      },
+      {
+        "label": "选项D",
+        "content": "合作加盟商"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "type": "单选题",
+    "title": "原则上，零售客户分档周期不得少于（）。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "1个月"
+      },
+      {
+        "label": "选项B",
+        "content": "3个月"
+      },
+      {
+        "label": "选项C",
+        "content": "一季度"
+      },
+      {
+        "label": "选项D",
+        "content": "半年"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "type": "单选题",
+    "title": "对于因发生涉烟违法违规行为（以专卖部门行政处罚决定为准）导致诚信等级降为（）以下的已建成一般现代终端及加盟终端客户，应当予以退出。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "A级"
+      },
+      {
+        "label": "选项B",
+        "content": "B级"
+      },
+      {
+        "label": "选项C",
+        "content": "C级"
+      },
+      {
+        "label": "选项D",
+        "content": "D级"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "type": "单选题",
+    "title": "雪茄烟零售客户由高到低统一划分为（）个档位。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《雪茄烟零售客户分档管理工作方案》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "5"
+      },
+      {
+        "label": "选项B",
+        "content": "10"
+      },
+      {
+        "label": "选项C",
+        "content": "20"
+      },
+      {
+        "label": "选项D",
+        "content": "30"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "type": "单选题",
+    "title": "雪茄烟零售客户档位是雪茄烟货源投放的重要依据。原则上每（）开展一次，对全市雪茄烟零售客户实行统一系统自动档位评价并更新。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《雪茄烟零售客户分档管理工作方案》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "一个月"
+      },
+      {
+        "label": "选项B",
+        "content": "三个月"
+      },
+      {
+        "label": "选项C",
+        "content": "半年"
+      },
+      {
+        "label": "选项D",
+        "content": "一年"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "type": "单选题",
+    "title": "国家规定的异地携带卷烟的限量为（ ）？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "专卖法",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "50条"
+      },
+      {
+        "label": "选项B",
+        "content": "10条"
+      },
+      {
+        "label": "选项C",
+        "content": "100条"
+      },
+      {
+        "label": "选项D",
+        "content": "2条"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "type": "单选题",
+    "title": "国家规定的邮寄的卷烟的限量为（ ）？",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "专卖法",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "50条"
+      },
+      {
+        "label": "选项B",
+        "content": "10条"
+      },
+      {
+        "label": "选项C",
+        "content": "100条"
+      },
+      {
+        "label": "选项D",
+        "content": "2条"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "type": "单选题",
+    "title": "示范旅游终端按照三年内投入不超（）元/户标准进行建设。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《旅游终端建设指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "1万"
+      },
+      {
+        "label": "选项B",
+        "content": "2万"
+      },
+      {
+        "label": "选项C",
+        "content": "3万"
+      },
+      {
+        "label": "选项D",
+        "content": "5万"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "type": "单选题",
+    "title": "特色旅游终端按照三年内投入不超（）元/户标准进行建设。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《旅游终端建设指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2万"
+      },
+      {
+        "label": "选项B",
+        "content": "3万"
+      },
+      {
+        "label": "选项C",
+        "content": "4万"
+      },
+      {
+        "label": "选项D",
+        "content": "5万"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "type": "单选题",
+    "title": "标准旅游终端按照三年内投入不超（）元/户标准进行建设。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《旅游终端建设指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2000"
+      },
+      {
+        "label": "选项B",
+        "content": "5000"
+      },
+      {
+        "label": "选项C",
+        "content": "1万"
+      },
+      {
+        "label": "选项D",
+        "content": "2万"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "type": "单选题",
+    "title": "一般类营销物资，含税单价不超过所宣传品规中价格最高产品的单条建议零售价，单人单次发放一般类营销物资的总价不超过（）元。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟经营费用和物资使用管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "500"
+      },
+      {
+        "label": "选项B",
+        "content": "1000"
+      },
+      {
+        "label": "选项C",
+        "content": "2000"
+      },
+      {
+        "label": "选项D",
+        "content": "5000"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "type": "单选题",
+    "title": "积分兑换的一般类营销物资，含税单价不超过（）元。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟经营费用和物资使用管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "500"
+      },
+      {
+        "label": "选项B",
+        "content": "1000"
+      },
+      {
+        "label": "选项C",
+        "content": "2000"
+      },
+      {
+        "label": "选项D",
+        "content": "5000"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "type": "单选题",
+    "title": "单人单次发放积分的价值不超过（）元。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟经营费用和物资使用管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "500"
+      },
+      {
+        "label": "选项B",
+        "content": "1000"
+      },
+      {
+        "label": "选项C",
+        "content": "2000"
+      },
+      {
+        "label": "选项D",
+        "content": "5000"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "type": "单选题",
+    "title": "省公司对一般现代终端建设投入进行限额管理，单店三年内累计投入金额不得超过（）元，原则上三年内同一类别物资不重复投入。",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2000"
+      },
+      {
+        "label": "选项B",
+        "content": "5000"
+      },
+      {
+        "label": "选项C",
+        "content": "20000"
+      },
+      {
+        "label": "选项D",
+        "content": "50000"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "type": "单选题",
+    "title": "省公司对加盟终端建设投入进行限额管理，单店三年内累计投入金额不得超过（）元，原则上三年内不得对同一类别物资进行重复投入。",
+    "answer": "D",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2000"
+      },
+      {
+        "label": "选项B",
+        "content": "5000"
+      },
+      {
+        "label": "选项C",
+        "content": "20000"
+      },
+      {
+        "label": "选项D",
+        "content": "50000"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "type": "单选题",
+    "title": "省公司对普通终端建设投入进行限额管理，单店三年内累计投入不得超过（）元。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "2000"
+      },
+      {
+        "label": "选项B",
+        "content": "5000"
+      },
+      {
+        "label": "选项C",
+        "content": "20000"
+      },
+      {
+        "label": "选项D",
+        "content": "50000"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "type": "多选题",
+    "title": "零售终端可分为哪两大类？",
+    "answer": "BD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "加盟终端"
+      },
+      {
+        "label": "选项B",
+        "content": "现代终端"
+      },
+      {
+        "label": "选项C",
+        "content": "一般现代终端"
+      },
+      {
+        "label": "选项D",
+        "content": "普通终端"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "type": "多选题",
+    "title": "现代终端进一步细分为（）？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "直营终端"
+      },
+      {
+        "label": "选项B",
+        "content": "加盟终端"
+      },
+      {
+        "label": "选项C",
+        "content": "合作终端"
+      },
+      {
+        "label": "选项D",
+        "content": "一般现代终端"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "type": "多选题",
+    "title": "“三全”门店的特征是（）。",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "全商品扫码"
+      },
+      {
+        "label": "选项B",
+        "content": "全店铺扫码"
+      },
+      {
+        "label": "选项C",
+        "content": "全店铺管理"
+      },
+      {
+        "label": "选项D",
+        "content": "全方式支付"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "type": "多选题",
+    "title": "常见吸烟场所可分为()？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "烟草应知应会",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "吸烟点"
+      },
+      {
+        "label": "选项B",
+        "content": "吸烟柱"
+      },
+      {
+        "label": "选项C",
+        "content": "吸烟区"
+      },
+      {
+        "label": "选项D",
+        "content": "吸烟室"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "type": "多选题",
+    "title": "客户入网时，应在客户基础信息系统内维护订货方式、（）、（）、网上支付等完整信息。",
+    "answer": "CD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户姓名"
+      },
+      {
+        "label": "选项B",
+        "content": "诚信等级"
+      },
+      {
+        "label": "选项C",
+        "content": "订货周期"
+      },
+      {
+        "label": "选项D",
+        "content": "结算方式"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "type": "多选题",
+    "title": "对新入网卷烟零售客户宜组织集中培训或一对一培训，包括但不限于以下哪些内容。",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "规范经营知识"
+      },
+      {
+        "label": "选项B",
+        "content": "经营基础知识"
+      },
+      {
+        "label": "选项C",
+        "content": "信用体系建设"
+      },
+      {
+        "label": "选项D",
+        "content": "相关服务渠道"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "type": "多选题",
+    "title": "客户拜访得流程包括信息收集与分析、（）、访前准备、（）、信息反馈及处理、评估拜访效果、制定改进措施。",
+    "answer": "BC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "确定拜访对象"
+      },
+      {
+        "label": "选项B",
+        "content": "制定拜访计划"
+      },
+      {
+        "label": "选项C",
+        "content": "实施拜访"
+      },
+      {
+        "label": "选项D",
+        "content": "了解客户需求"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "type": "多选题",
+    "title": "提升客户获得感满意度的措施包括？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "改善经营方式指导"
+      },
+      {
+        "label": "选项B",
+        "content": "忽视个性化需求"
+      },
+      {
+        "label": "选项C",
+        "content": "解决经营困难"
+      },
+      {
+        "label": "选项D",
+        "content": "保障盈利稳定区间"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "type": "多选题",
+    "title": "客户拜访时间和方式要求包括？",
+    "answer": "BCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "仅限面对面拜访"
+      },
+      {
+        "label": "选项B",
+        "content": "根据服务内容灵活确定"
+      },
+      {
+        "label": "选项C",
+        "content": "推广分层分类服务"
+      },
+      {
+        "label": "选项D",
+        "content": "借助各种信息化工具"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "type": "多选题",
+    "title": "店面陈列指导内容包括？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "引导全品规卷烟陈列"
+      },
+      {
+        "label": "选项B",
+        "content": "引导对卷烟陈列设施自主进行改造"
+      },
+      {
+        "label": "选项C",
+        "content": "引导保持陈列设施明亮整洁"
+      },
+      {
+        "label": "选项D",
+        "content": "引导明码标价、货签对应"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "type": "多选题",
+    "title": "品牌推介活动实施要点包括？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "重点品牌优先"
+      },
+      {
+        "label": "选项B",
+        "content": "单方独立决策"
+      },
+      {
+        "label": "选项C",
+        "content": "规范运作实施"
+      },
+      {
+        "label": "选项D",
+        "content": "多方协同互动"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "type": "多选题",
+    "title": "直营终端特征包括？",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "烟草企业投资"
+      },
+      {
+        "label": "选项B",
+        "content": "客户自主运营"
+      },
+      {
+        "label": "选项C",
+        "content": "示范引领效应"
+      },
+      {
+        "label": "选项D",
+        "content": "允许私人入股"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "type": "多选题",
+    "title": "合作终端合作对象包括？",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "零售连锁企业"
+      },
+      {
+        "label": "选项B",
+        "content": "大型综合商超"
+      },
+      {
+        "label": "选项C",
+        "content": "烟草工业企业"
+      },
+      {
+        "label": "选项D",
+        "content": "物流配送企业"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "type": "多选题",
+    "title": "客户入网服务流程包括？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "确定营销人员"
+      },
+      {
+        "label": "选项B",
+        "content": "随机分配货源"
+      },
+      {
+        "label": "选项C",
+        "content": "维护基础信息"
+      },
+      {
+        "label": "选项D",
+        "content": "询问客户情况"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "type": "多选题",
+    "title": "经营指导服务内容包括？",
+    "answer": "ABD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "陈列指导"
+      },
+      {
+        "label": "选项B",
+        "content": "库存指导"
+      },
+      {
+        "label": "选项C",
+        "content": "采购设备"
+      },
+      {
+        "label": "选项D",
+        "content": "销售指导"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "type": "多选题",
+    "title": "营销人员服务标准包括？",
+    "answer": "ABD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "仪容仪表规范"
+      },
+      {
+        "label": "选项B",
+        "content": "行为合法合规"
+      },
+      {
+        "label": "选项C",
+        "content": "强制客户升级"
+      },
+      {
+        "label": "选项D",
+        "content": "尊重客户意愿"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "type": "多选题",
+    "title": "品牌培育服务重点方向包括？",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "新品宣传推广"
+      },
+      {
+        "label": "选项B",
+        "content": "突出宣传促销"
+      },
+      {
+        "label": "选项C",
+        "content": "降低品牌价格"
+      },
+      {
+        "label": "选项D",
+        "content": "强制客户订购"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "type": "多选题",
+    "title": "客户拜访流程环节包括？",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "信息收集分析"
+      },
+      {
+        "label": "选项B",
+        "content": "强制终端升级"
+      },
+      {
+        "label": "选项C",
+        "content": "制定拜访计划"
+      },
+      {
+        "label": "选项D",
+        "content": "效果评估改进"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "type": "多选题",
+    "title": "货源信息发布渠道包括？",
+    "answer": "ABC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "网上订货平台"
+      },
+      {
+        "label": "选项B",
+        "content": "企业微信平台"
+      },
+      {
+        "label": "选项C",
+        "content": "零售终端信息系统"
+      },
+      {
+        "label": "选项D",
+        "content": "门店张贴公告"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "type": "多选题",
+    "title": "在销品牌维护机制包括？",
+    "answer": "ABD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "日常维护服务"
+      },
+      {
+        "label": "选项B",
+        "content": "定期分析评估与持续维护"
+      },
+      {
+        "label": "选项C",
+        "content": "强制替换品牌"
+      },
+      {
+        "label": "选项D",
+        "content": "退出品牌下柜"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "type": "多选题",
+    "title": "客户投诉咨询处理流程？",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "咨询投诉受理"
+      },
+      {
+        "label": "选项B",
+        "content": "咨询投诉处理"
+      },
+      {
+        "label": "选项C",
+        "content": "结果反馈"
+      },
+      {
+        "label": "选项D",
+        "content": "跟踪回访"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "type": "多选题",
+    "title": "零售客户档位划分的维度有哪些。",
+    "answer": "ABCE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "卷烟购进金额"
+      },
+      {
+        "label": "选项B",
+        "content": "卷烟购进量"
+      },
+      {
+        "label": "选项C",
+        "content": "一二类烟购进量"
+      },
+      {
+        "label": "选项D",
+        "content": "终端功能应用"
+      },
+      {
+        "label": "选项E",
+        "content": "诚信等级"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "type": "多选题",
+    "title": "新入网客户初始档位评定及入网工作一般应在客户取得许可证次日起（）个工作日内完成，最长不超过（）个工作日，遇特殊情况超期未办理的，应在规定的办理期限内征得客户书面同意，并向市公司销售部门书面说明情况。",
+    "answer": "AB",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "5"
+      },
+      {
+        "label": "选项B",
+        "content": "10"
+      },
+      {
+        "label": "选项C",
+        "content": "20"
+      },
+      {
+        "label": "选项D",
+        "content": "30"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "type": "多选题",
+    "title": "拟发展的一般现代终端应当满足入网时间不少于（）个月、（）个月内未发生涉烟违法违规行为（以专卖部门有效行政处罚决定为准）的要求。",
+    "answer": "BD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "6"
+      },
+      {
+        "label": "选项B",
+        "content": "12"
+      },
+      {
+        "label": "选项C",
+        "content": "18"
+      },
+      {
+        "label": "选项D",
+        "content": "24"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "type": "多选题",
+    "title": "拟发展的加盟终端应当满足具备一般现代终端资格（）个月以上且入网时间不少于（）个月、（）个月内未发生涉烟违法违规行为（以专卖部门有效行政处罚决定为准）的要求。",
+    "answer": "ACD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "6"
+      },
+      {
+        "label": "选项B",
+        "content": "12"
+      },
+      {
+        "label": "选项C",
+        "content": "18"
+      },
+      {
+        "label": "选项D",
+        "content": "24"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "type": "多选题",
+    "title": "旅游终端拟建客户的选择应当将“诚信守法经营”摆在首要位置，同时满足稳定经营条件。旅游终端客户的诚信等级评定必须为（）级及以上，店铺经营场所自有或租期在（）及以上。",
+    "answer": "AC",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "A级"
+      },
+      {
+        "label": "选项B",
+        "content": "B级"
+      },
+      {
+        "label": "选项C",
+        "content": "一年"
+      },
+      {
+        "label": "选项D",
+        "content": "两年"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "type": "多选题",
+    "title": "依据旅游终端自身条件及其承载功能，将旅游终端分为（）层级。",
+    "answer": "BCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《旅游终端建设指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "普通旅游终端"
+      },
+      {
+        "label": "选项B",
+        "content": "标准旅游终端"
+      },
+      {
+        "label": "选项C",
+        "content": "特色旅游终端"
+      },
+      {
+        "label": "选项D",
+        "content": "示范旅游终端"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "type": "多选题",
+    "title": "原则上加盟终端选点以(）为主，以（）档位客户为主，不提倡发展烟酒店，不提倡发展档位过高客户。",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "传统便利店"
+      },
+      {
+        "label": "选项B",
+        "content": "单体便利店"
+      },
+      {
+        "label": "选项C",
+        "content": "中等"
+      },
+      {
+        "label": "选项D",
+        "content": "偏上"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "type": "多选题",
+    "title": "零售客户雪茄烟分档测算基础指标包括（）。",
+    "answer": "ABCD",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《雪茄烟零售客户分档管理工作方案》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "国产雪茄烟购进量"
+      },
+      {
+        "label": "选项B",
+        "content": "国产雪茄烟购进金额"
+      },
+      {
+        "label": "选项C",
+        "content": "中高端国产雪茄烟购进量"
+      },
+      {
+        "label": "选项D",
+        "content": "中高端国产雪茄烟购进额"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "type": "多选题",
+    "title": "雪茄烟终端类型包含（）。",
+    "answer": "ABCDE",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《关于加快推动国产雪茄烟营销高质量发展的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "示范店"
+      },
+      {
+        "label": "选项B",
+        "content": "专营店"
+      },
+      {
+        "label": "选项C",
+        "content": "兼营店"
+      },
+      {
+        "label": "选项D",
+        "content": "普通终端"
+      },
+      {
+        "label": "选项E",
+        "content": "展示终端"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "type": "判断题",
+    "title": "在卷烟订购过程中，营销人员应充分尊重卷烟零售客户的货源选择权和经营自主权，不得干预卷烟零售客户自主选择货源，营销人员可以为卷烟零售客户代订卷烟。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "type": "判断题",
+    "title": "对于涉烟违法违规零售户，除依据行政检查结果、行政处罚决定处置外，不得另行采取直接降档等约束措施。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "type": "判断题",
+    "title": "行业干部职工本人或直系亲属可以获取积分，参与兑奖或兑换。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟经营费用和物资使用管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "type": "判断题",
+    "title": "不得通过明察暗访、小组公约等形式要求客户统一卷烟零售价格。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "type": "判断题",
+    "title": "对违反诚信小组公约的零售客户可以实施停减供等惩戒措施。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "type": "判断题",
+    "title": "在客户进行卷烟订货时，可以设置客户单次订购卷烟最低数量限额。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《提升营销网建基础工作质量强化终端\n建设规范的指导意见》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "type": "判断题",
+    "title": "规范卷烟营销客户服务行为时，应充分尊重卷烟零售客户意愿，杜绝违背客户意愿的服务行为。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "type": "判断题",
+    "title": "营销人员应向新入网卷烟零售客户提供卷烟品牌目录、政策宣传资料等物料。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "type": "判断题",
+    "title": "营销人员无需提醒卷烟零售客户准备货款。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "type": "判断题",
+    "title": "营销人员应及时维护拜访过程中发现的需变更的基础信息，并将收集的信息反馈至相关部门。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "type": "判断题",
+    "title": "营销人员应指导卷烟零售客户开展卷烟安全库存管理，辅导计算安全库存。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "type": "判断题",
+    "title": "营销人员应根据客户个人需求或个性特征，在力所能及的范围内，提供安全防范、法律援助、金融贷款、应急救援、弱势客户经营帮扶等增值化服务。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "type": "判断题",
+    "title": "专卖及其他部门负责搭建信用积分等级体系、信用评价指标体系，营销人员无需协助。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《河南省烟草公司营销客户服务行为规范指引》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "type": "判断题",
+    "title": "客户卷烟档位评定所采用的各类数据包含雪茄烟、罚没烟。",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "type": "判断题",
+    "title": "评定客户档位所使用的数据周期，一般应为上次档位评定至本次档位评定期间的完整投放周期数据。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《客户档位管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "type": "判断题",
+    "title": "营销活动中，各级烟草公司和个人不得以任何名义、任何理由收受和索要工业企业的现金和礼品，不得借机将本单位的费用开支向工业企业转嫁。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《市场营销活动管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "type": "判断题",
+    "title": "各工业企业利用自媒体、微信平台等组织实施的营销活动，未经河南省烟草公司同意，不得含有“河南省烟草公司”或“××市烟草公司”等字样。",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《市场营销活动管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "对"
+      },
+      {
+        "label": "选项B",
+        "content": "错"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "type": "单选题",
+    "title": "零售客户存销比计算公式为？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟消费者信息采集管理办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "本周样本客户库存/（上周样本客户库存-本周样本客户库存）"
+      },
+      {
+        "label": "选项B",
+        "content": "本周样本客户库存/（上周样本客户库存+本周样本客户订单-本周样本客户库存）"
+      },
+      {
+        "label": "选项C",
+        "content": "上周样本客户库存/（上周样本客户库存+本周样本客户订单-本周样本客户库存）"
+      },
+      {
+        "label": "选项D",
+        "content": "上周样本客户销量/（上周样本客户库存+本周样本客户订单-本周样本客户库存）"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "type": "单选题",
+    "title": "社会存销比计算公式为？",
+    "answer": "A",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟市场状态评价与调控办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "月（周）末时点社会库存/当月（周）总销量"
+      },
+      {
+        "label": "选项B",
+        "content": "当月（周）总销量/月（周）末时点社会库存"
+      },
+      {
+        "label": "选项C",
+        "content": "月（周）初社会库存/当月（周）总销量"
+      },
+      {
+        "label": "选项D",
+        "content": "当月（周）总销量/月（周）初社会库存"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "type": "单选题",
+    "title": "条价格指数计算公式为？",
+    "answer": "C",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟市场状态评价与调控办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "条零售指导价/条市场零售价格"
+      },
+      {
+        "label": "选项B",
+        "content": "条批发价格/条零售指导价"
+      },
+      {
+        "label": "选项C",
+        "content": "条市场零售价格/条零售指导价"
+      },
+      {
+        "label": "选项D",
+        "content": "条市场零售价格/条批发价"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "type": "单选题",
+    "title": "投放面计算公式为？",
+    "answer": "B",
+    "keywords": "",
+    "analysis": "",
+    "knowledge_point": "《卷烟市场状态评价与调控办法》",
+    "options": [
+      {
+        "label": "选项A",
+        "content": "客户总数量/品牌（规格）投放客户数量*100%"
+      },
+      {
+        "label": "选项B",
+        "content": "品牌（规格）投放客户数量/客户总数量*100%"
+      },
+      {
+        "label": "选项C",
+        "content": "品牌（规格）订购客户数量/客户总数量*100%"
+      },
+      {
+        "label": "选项D",
+        "content": "品牌（规格）订购客户数量/投放客户总数量*100%"
+      }
+    ]
+  }
+]
